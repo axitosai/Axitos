@@ -30,6 +30,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Title | Author | Folder | Status |
 |---|---|---|---|
 | Secrets of Sage | Keven Baxter | [`secrets-of-sage/`](./secrets-of-sage/) | Complete |
+| All Powers of God Almighty | Pastor Dr. Gabriel Ayorinde | [`all-powers-of-god-almighty/`](./all-powers-of-god-almighty/) | Complete |
 
 ---
 

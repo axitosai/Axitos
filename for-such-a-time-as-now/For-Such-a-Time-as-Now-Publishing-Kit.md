@@ -1,18 +1,17 @@
 # For Such a Time as Now — Publishing, Metadata & Discoverability Kit
 
 **Book Title:** For Such a Time as Now
-**Subtitle:** [Confirm subtitle, if any]
+**Subtitle:** A Call to Courageous Christianity in a Compromising Culture
 **Author:** Daryl Boyer
-**Publisher:** Kharis Publishing (an imprint of Kharis Media LLC) — [confirm]
-**ISBN-13:** [pending — not supplied]  |  **ISBN-10:** [pending]
-**LCCN:** [pending]
-**Copyright:** © 2026 Daryl Boyer — [confirm year]
-**Release:** [confirm release date]
-**Format(s):** [confirm — Paperback / eBook / hardcover / audiobook]
+**Publisher:** Kharis Publishing (an imprint of Kharis Media LLC)
+**ISBN-13:** 978-1-63746-741-1  |  **ISBN-10:** 1-63746-741-9
+**LCCN:** [pending — blank on supplied copyright page]
+**Copyright:** © 2026 Daryl Boyer
+**Bible translation:** New Living Translation (NLT), Tyndale House
+**Release:** 2026 [confirm exact month]
+**Format(s):** Paperback [confirm hardcover / eBook / audiobook]
 
 > Prepared for Amazon (KDP), IngramSpark, other marketplaces, and the Kharis Publishing website. Built to support a high-conversion sales pitch within 1–3 months of launch. Placeholders in `[brackets]` must be filled before going live.
->
-> **Note:** No copyright page, ISBN, or extended author biography was supplied for this title. Publisher, ISBN, and release details are assumed to follow the pattern of prior titles in this repo and are flagged for confirmation. The 500-word bio expands thematically from the supplied author profile without inventing specific biographical facts; items needing confirmation are marked.
 
 ---
 
@@ -38,19 +37,19 @@ Through teaching, writing, speaking, and music, he equips God's people to stand 
 
 ## 3. 500-Word Author Bio (Marketing Team Use)
 
-Daryl Boyer is a pastor, teacher, speaker, and Christian recording artist whose life and ministry are marked by a single, burning conviction: that God is calling His people back to truth, holiness, and wholehearted devotion to Christ. In an age of compromise, confusion, and comfort-driven faith, Daryl's message is both a warning and an invitation—a summons for believers to wake up, stand firm, and live set apart.
+Daryl Boyer is a pastor, teacher, speaker, and Christian recording artist, and the founder of Daryl Boyer Ministries. His life and ministry are marked by a single, burning conviction: that God is calling His people back to truth, holiness, and wholehearted devotion to Christ. In an age of compromise, confusion, and comfort-driven faith, Daryl's message is both a warning and an invitation—a summons for believers to wake up, stand firm, and live set apart.
 
-At the heart of his ministry is a passion to help Christians understand and live out their identity in Christ. He is convinced that many believers have settled for a surface-level faith—shaped more by the surrounding culture than by the Word of God—and that this drift has left the Church spiritually immature, easily swayed, and reluctant to be different from the world around it. Rather than offering fleeting inspiration, Daryl presses toward accountability, obedience, and genuine transformation, urging believers to examine their lives through the lens of Scripture and to respond with surrender.
+At the heart of his ministry is a passion to help Christians understand and live out their identity in Christ—not as an optional extra, but as the foundation of the believer's life. He is convinced that many believers have settled for a surface-level faith—shaped more by the surrounding culture than by the Word of God—and that this drift has left the Church spiritually immature, easily swayed, and reluctant to be different from the world around it. Rather than offering fleeting inspiration, Daryl presses toward accountability, obedience, and genuine transformation, urging believers to examine their lives through the lens of Scripture and to respond with surrender.
 
-Daryl teaches, writes, speaks, and sings with the same purpose: to equip God's people for spiritual maturity and faithful living in a compromised culture. As a pastor and teacher, he grounds believers in the authority of Scripture and the call to discipleship. As a speaker, he challenges audiences to move beyond comfort and cultural Christianity into conviction and action. And as a Christian recording artist, he carries the message of surrender and devotion through music, reaching hearts in a language that resonates far beyond the page. *[Confirm specifics of ministry role, location, and music/discography for marketing use.]*
+Daryl teaches, writes, speaks, and sings with the same purpose: to equip God's people for spiritual maturity and faithful living in a compromised culture. As a pastor and teacher, he grounds believers in the authority of Scripture and the call to discipleship. As a speaker, he challenges audiences to move beyond comfort and cultural Christianity into conviction and action. And as a Christian recording artist, he leads others into trustworthy worship and carries the message of surrender and devotion through music, reaching hearts in a language that resonates far beyond the page.
 
-His burden is not merely to critique what is wrong in modern Christianity, but to point the way forward. He believes the answer to a drifting culture is not louder outrage or cleverer strategy, but a Church that returns to the foundations of the faith: holiness, obedience, discernment, and dependence on God. He calls believers and leaders alike to reject the pressure to blend in, to embrace the cost of following Christ, and to become people who are grounded, faithful, and unwilling to be moved.
+His burden is not merely to critique what is wrong in modern Christianity, but to point the way forward. He believes the answer to a drifting culture is not louder outrage or cleverer strategy, but a Church that returns to the foundations of the faith: holiness, obedience, discernment, and dependence on God. He calls believers and leaders alike to reject the pressure to blend in, to embrace the cost of following Christ, and to become people who are grounded, faithful, and unwilling to be moved. Those who have known him for decades describe a man of steady integrity and quiet, faithful consistency—one whose life gives his message weight.
 
-That conviction gave rise to his book, *For Such a Time as Now*—a direct and timely call to believers who sense that something is off in modern Christianity. In it, Daryl confronts compromise with clarity, exposes cultural Christianity, and restores a biblical standard of discipleship, guiding readers from mere inspiration into accountability, action, and transformation. It is written for those unwilling to settle for cultural Christianity—believers and responsible leaders who long for clarity, conviction, and a path forward rooted in surrender and faithfulness.
+That conviction gave rise to his book, *For Such a Time as Now*—a direct and timely call to believers who sense that something is off in modern Christianity. In it, Daryl confronts compromise with clarity, exposes cultural Christianity, and restores a biblical standard of discipleship, guiding readers from mere inspiration into accountability, action, and transformation.
 
-Whether through the pulpit, the page, the platform, or a song, Daryl Boyer's mission remains the same: to see believers walk in truth, conviction, and wholehearted devotion to Christ—faithful not to the spirit of the age, but to the God who does not change.
+Daryl is deeply grateful for his loving wife and family, whose steadfast support has sustained him through every season of ministry and the writing of this book. Whether through the pulpit, the page, the platform, or a song, his mission remains the same: to see believers walk in truth, conviction, and wholehearted devotion to Christ—faithful not to the spirit of the age, but to the God who does not change.
 
-*To learn more about Daryl Boyer, his ministry, and his music, visit [INSERT WEBSITE].*
+*To learn more about Daryl Boyer and his ministry, visit [INSERT WEBSITE].*
 
 *(≈500 words)*
 
@@ -60,9 +59,9 @@ Whether through the pulpit, the page, the platform, or a song, Daryl Boyer's mis
 
 Something is off in modern Christianity—and you can feel it.
 
-*For Such a Time as Now* is a direct, timely call to believers who refuse to settle for a comfortable, compromised faith. In a culture marked by confusion and drift, this book summons the Church back to truth, challenging you to examine your life through the lens of Scripture and respond with obedience, holiness, and spiritual maturity.
+*For Such a Time as Now* is a direct, timely call to believers who refuse to settle for a compromised faith. In a culture marked by confusion and drift, this book summons the Church back to truth, challenging you to examine your life through the lens of Scripture and respond with obedience, holiness, and spiritual maturity.
 
-This is a call to live set apart—to walk in discernment, stand firm when the culture pressures you to blend in, and move beyond inspiration into accountability, action, and transformation. For those unwilling to accept cultural Christianity, here is clarity, conviction, and a path forward rooted in surrender and faithfulness.
+This is a call to courageous Christianity: to live set apart, walk in discernment, stand firm when the culture pressures you to blend in, and move beyond inspiration into accountability, action, and transformation. For those unwilling to accept cultural Christianity, here is clarity, conviction, and a path forward rooted in surrender and faithfulness.
 
 *(119 words)*
 
@@ -79,18 +78,19 @@ With clarity and conviction, Daryl confronts the compromise that has crept into 
 Through the pages of this book, believers and responsible leaders will learn to:
 
 - Confront compromise with clarity, and hear the call to wake up—not just feel better
+- Rediscover their identity in Christ as the foundation of a courageous, set-apart life
 - Re-center their faith on holiness, obedience, and surrender, rather than comfort
 - Stand firm in a culture that constantly pressures them to blend in
 - Expose cultural Christianity and restore a biblical standard of discipleship
 - Move beyond inspiration into accountability, action, and lasting transformation
 
-Grounded in Scripture and written with pastoral urgency, *For Such a Time as Now* challenges you to examine your life honestly, to walk in discernment, and to remain rooted when everything around you is shifting. It is a call to live set apart in a generation desperate for authentic, unshakable faith.
+Grounded in Scripture (NLT) and written with pastoral weight and prophetic clarity, *For Such a Time as Now* moves through the fear of God, holiness, dying to self, false gods in modern disguise, and readiness for the last days—challenging you to examine your life honestly, walk in discernment, and remain rooted when everything around you is shifting. It is a call to courageous Christianity in a generation desperate for authentic, unshakable faith.
 
 For those unwilling to settle for a watered-down gospel, this book offers something rare: clarity in the confusion, conviction in the compromise, and a clear path forward rooted in surrender and faithfulness.
 
 The times are urgent. The call is clear. This is a moment for the faithful to rise—for such a time as now.
 
-*(≈329 words)*
+*(≈350 words)*
 
 ---
 
@@ -99,12 +99,17 @@ The times are urgent. The call is clear. This is a moment for the faithful to ri
 - **Primary genre:** Adult Nonfiction — Religion / Christian Living
 - **Sub-genres / themes:**
   - Discipleship & spiritual maturity
-  - Spiritual growth & holiness
+  - Spiritual growth & holiness / consecration
+  - **Identity in Christ** as foundational (a distinctive emphasis noted by endorsers)
   - Cultural discernment / faith vs. "cultural Christianity"
   - Church renewal & awakening / call to the Church
-  - Christian identity, surrender & wholehearted devotion
-  - Christian leadership & accountability
-- **Style/tone:** Prophetic, exhortational, pastoral, conviction-driven — a "wake-up call" that moves readers from inspiration to action. Well suited to individual reading, men's and discipleship groups, and church-wide or small-group study.
+  - The fear of God vs. the fear of man; courage over people-pleasing
+  - Dying to self, surrender & wholehearted devotion
+  - Renewing the mind; freedom from escape/idolatry; truth-led living
+  - Readiness and endurance for the last days (mild eschatology)
+  - Christian leadership & accountability (character over anointing)
+- **Style/tone:** Prophetic, exhortational, pastoral, conviction-driven — "pastoral weight and prophetic clarity" (endorser). A "wake-up call" that moves readers from inspiration to action, with each chapter ending in **Reflection Questions, Stretch Challenges, and a Prayer** — ideal for individual reading, men's and discipleship groups, and church-wide or small-group study.
+- **Structure:** 18 chapters (e.g., *A Church at the Brink*, *The Fear of the Lord or Fear of Man*, *Holy as He Is Holy*, *Dead to Self*, *Cultural Christianity and the Loss of Power*, *Created on Purpose* [identity], *When Anointing Exceeds Maturity*, *The Last Days Church*).
 - **Title note:** The title deliberately echoes **Esther 4:14** ("for such a time as this") — a recognizable, high-resonance biblical hook worth leaning into across marketing.
 
 ---
@@ -201,21 +206,23 @@ Amazon draws browse placement from BISAC. Recommended set (mirrors §8, with Chu
 ### Amazon — 7 backend keyword slots (each ≤50 bytes; no repeats of title/author/category words)
 1. `cultural christianity and compromise`
 2. `christian discipleship spiritual maturity`
-3. `holiness obedience and christian living`
+3. `holiness obedience courageous christianity`
 4. `call to the church wake up revival`
-5. `discernment biblical faith in a culture`
-6. `surrender wholehearted devotion to god`
-7. `standing firm faith set apart book`
+5. `identity in christ and your calling`
+6. `fear of god versus fear of man`
+7. `living set apart in a compromising culture`
 
 ### IngramSpark / general keyword bank (comma-delimited)
-cultural Christianity, compromise, spiritual maturity, discipleship, holiness, obedience, surrender, discernment, biblical standard, call to the Church, revival, awakening, set apart, faithfulness, comfort-driven faith, lukewarm faith, spiritual drift, identity in Christ, Christian leadership, accountability, transformation, standing firm, wholehearted devotion, biblical discipleship, Esther for such a time
+cultural Christianity, courageous Christianity, compromising culture, compromise, spiritual maturity, discipleship, holiness, consecration, obedience, surrender, dead to self, discernment, biblical standard, call to the Church, revival, awakening, set apart, fear of God, fear of man, identity in Christ, calling and purpose, renewing the mind, last days church, lukewarm faith, spiritual drift, Christian leadership, accountability, transformation, wholehearted devotion, biblical discipleship, Esther for such a time
 
 ### High-intent long-tail phrases (ads, blog, landing-page copy, retailer A+)
+- "call to courageous Christianity in a compromising culture"
 - "Christian book about cultural compromise and drift"
 - "a call to the church to return to holiness"
-- "how to live set apart in a compromised culture"
+- "identity in Christ as the foundation of the believer's life"
+- "fear of God versus fear of man book"
+- "how to live set apart in a compromising culture"
 - "biblical discipleship for a lukewarm church"
-- "spiritual maturity and discernment book for believers"
 - "wake up call for the modern church"
 
 ---
@@ -223,12 +230,12 @@ cultural Christianity, compromise, spiritual maturity, discipleship, holiness, o
 ## 14. SEO / AEO / GEO Meta Titles & Descriptions
 
 ### Meta Titles
-- **SEO (≤60 chars):** `For Such a Time as Now | A Call Back to Biblical Faith` — **54 chars**
-- **AEO/GEO (≤90 chars):** `For Such a Time as Now: A Call to Reject Cultural Christianity and Live Set Apart` — **80 chars**
+- **SEO (≤60 chars):** `For Such a Time as Now | Courageous Christianity` — **48 chars**
+- **AEO/GEO (≤90 chars):** `For Such a Time as Now: A Call to Courageous Christianity in a Compromising Culture` — **83 chars**
 
 ### Meta Descriptions
-- **SEO (≤160 chars):** `For Such a Time as Now by Daryl Boyer is a bold call to reject cultural Christianity and return to truth, holiness, discipleship, and wholehearted faith.` — **153 chars**
-- **AEO/GEO (≤200 chars):** `In For Such a Time as Now, pastor and recording artist Daryl Boyer confronts compromise in Christianity and calls believers and leaders back to holiness, obedience, discernment, and discipleship.` — **195 chars**
+- **SEO (≤160 chars):** `For Such a Time as Now by Daryl Boyer is a bold call to courageous Christianity—rejecting compromise for truth, holiness, identity in Christ, and discipleship.` — **159 chars**
+- **AEO/GEO (≤200 chars):** `In For Such a Time as Now, Daryl Boyer sounds a wake-up call to the Church—confronting compromise and calling believers to identity in Christ, holiness, discernment, and courageous discipleship.` — **194 chars**
 
 ---
 
@@ -240,8 +247,8 @@ cultural Christianity, compromise, spiritual maturity, discipleship, holiness, o
   - **Small groups, men's groups, discipleship classes, and Bible studies** (exhortational structure suits group discussion).
   - Younger believers engaged in the current **revival / awakening / anti-deconstruction** conversation who want rootedness and conviction.
   - Readers of Francis Chan, David Platt, Kyle Idleman, and similar "radical/uncompromising faith" authors.
-- **Use cases:** personal conviction/growth reading, church-wide or small-group study, discipleship curriculum supplement, leadership development, conference/retreat resource (bulk-purchase friendly via Kharis).
-- **Reading level:** Accessible, direct adult nonfiction — approx. **Grade 8–10 / Flesch–Kincaid**. Urgent, pastoral, challenging tone.
+- **Use cases:** personal conviction/growth reading, church-wide or small-group study, discipleship curriculum supplement, leadership development, conference/retreat resource (bulk-purchase friendly via Kharis). Each chapter's **Reflection Questions, Stretch Challenges, and Prayer** make it turnkey for group study.
+- **Reading level:** Accessible, direct adult nonfiction — approx. **Grade 8–10 / Flesch–Kincaid**. Urgent, pastoral, challenging tone. Scripture quoted throughout in the **New Living Translation (NLT)**, keeping it approachable for a broad readership.
 
 ---
 
@@ -266,13 +273,13 @@ A: No. It speaks to every believer, but it specifically equips "responsible lead
 A: It's a wake-up call, not a comfort read. Rather than offering fleeting encouragement, it presses toward holiness, obedience, and genuine life change—clarity and conviction over comfort.
 
 **Q: Where can I buy it?**
-A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through IngramSpark-supplied retailers and bookstores, and at kharispublishing.com. [Confirm ISBN, price, and buy links.]
+A: *For Such a Time as Now: A Call to Courageous Christianity in a Compromising Culture* by Daryl Boyer (ISBN 978-1-63746-741-1, Kharis Publishing, 2026) is available at Amazon, through IngramSpark-supplied retailers and bookstores, and at kharispublishing.com. [Confirm price and buy links.]
 
 ---
 
 ## 17. GEO Citation Snippet (for Generative Engines)
 
-> *For Such a Time as Now* is a call-to-the-Church book by **Daryl Boyer**, a pastor, teacher, speaker, and Christian recording artist. Written for believers who sense that something is off in modern Christianity, it confronts a culture of compromise, confusion, and comfort-driven faith and summons the Church back to truth. Boyer exposes "cultural Christianity"—a faith shaped more by the surrounding world than by Scripture—and restores a biblical standard of discipleship, calling believers and leaders to re-center their lives on holiness, obedience, discernment, and surrender. Echoing Esther 4:14, the book urges readers to move beyond inspiration into accountability, action, and transformation—to examine their lives through the lens of Scripture, stand firm against cultural pressure, and live set apart for such a time as now.
+> *For Such a Time as Now: A Call to Courageous Christianity in a Compromising Culture* (Kharis Publishing, 2026; ISBN 978-1-63746-741-1) is a call-to-the-Church book by **Daryl Boyer**, a pastor, teacher, speaker, and Christian recording artist and founder of Daryl Boyer Ministries. Written for believers who sense that something is off in modern Christianity, it confronts a culture of compromise, confusion, and comfort-driven faith and summons the Church back to truth. Across 18 chapters—grounded in the New Living Translation—Boyer exposes "cultural Christianity," a faith shaped more by the surrounding world than by Scripture, and restores a biblical standard of discipleship, calling believers and leaders to re-center their lives on identity in Christ, holiness, the fear of God, obedience, discernment, and surrender. Echoing Esther 4:14, the book urges readers to move beyond inspiration into accountability, action, and transformation—to examine their lives through the lens of Scripture, stand firm against cultural pressure, and live set apart for such a time as now.
 
 ---
 
@@ -283,6 +290,7 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "For Such a Time as Now",
+  "alternateName": "For Such a Time as Now: A Call to Courageous Christianity in a Compromising Culture",
   "author": {
     "@type": "Person",
     "name": "Daryl Boyer"
@@ -290,9 +298,9 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
   "inLanguage": "en",
   "bookFormat": "https://schema.org/Paperback",
   "genre": ["Christian Living", "Discipleship", "Spiritual Growth", "Church Renewal", "Christian Discernment"],
-  "isbn": "[INSERT ISBN-13]",
+  "isbn": "9781637467411",
   "workExample": [
-    { "@type": "Book", "isbn": "[INSERT ISBN-13]", "bookFormat": "https://schema.org/Paperback" }
+    { "@type": "Book", "isbn": "9781637467411", "bookFormat": "https://schema.org/Paperback" }
   ],
   "numberOfPages": "[INSERT PAGE COUNT]",
   "publisher": {
@@ -300,12 +308,12 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
     "name": "Kharis Publishing",
     "url": "https://www.kharispublishing.com"
   },
-  "datePublished": "[INSERT YYYY-MM]",
+  "datePublished": "2026",
   "copyrightYear": 2026,
   "image": "[INSERT COVER IMAGE URL]",
   "url": "[INSERT BOOK LANDING PAGE URL]",
-  "description": "A direct and timely call by Daryl Boyer for believers to reject cultural Christianity and return to truth, holiness, and discipleship. For Such a Time as Now confronts compromise and comfort-driven faith and equips believers and leaders to live set apart through obedience, discernment, and surrender.",
-  "keywords": "cultural Christianity, compromise, discipleship, spiritual maturity, holiness, obedience, discernment, surrender, call to the Church, revival, set apart, biblical discipleship",
+  "description": "A direct and timely call by Daryl Boyer for believers to reject cultural Christianity and return to truth, identity in Christ, holiness, and discipleship. For Such a Time as Now confronts compromise and comfort-driven faith and equips believers and leaders to live set apart through obedience, discernment, and surrender.",
+  "keywords": "cultural Christianity, courageous Christianity, compromise, discipleship, spiritual maturity, identity in Christ, holiness, fear of God, obedience, discernment, surrender, call to the Church, revival, set apart, biblical discipleship",
   "audience": {
     "@type": "Audience",
     "audienceType": "Committed Christians, pastors, and church leaders seeking spiritual maturity and biblical discipleship"
@@ -317,6 +325,28 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
     "availability": "https://schema.org/InStock",
     "url": "[INSERT BUY LINK]"
   },
+  "review": [
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Dr. Christopher R. Barnes" },
+      "reviewBody": "A compelling and accurate call to the Body of Christ that speaks directly into the urgency of the hour. Its pages carry biblical clarity and a sense of true spiritual authority, with a powerful emphasis on identity as foundational to the believer's life."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Dr. Andrew P. Surace" },
+      "reviewBody": "The book you are about to read will not allow you to remain the same. You'll gain a deeper understanding of who you are in Christ, bringing clarity and confidence in your calling."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Jason Boyer" },
+      "reviewBody": "With pastoral weight and prophetic clarity, he confronts the subtle drift that has reshaped modern faith. More than just a book, this is a summons to be found faithful when it matters most."
+    },
+    {
+      "@type": "Review",
+      "author": { "@type": "Person", "name": "Rev. (Dr.) Sammy Joseph" },
+      "reviewBody": "This book will challenge you—obedience versus compromise, true discipleship versus passive faith, holiness versus compromise. It confronts the erosion within and calls believers back to spiritual conviction and truth."
+    }
+  ],
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "[INSERT AVG RATING]",
@@ -325,7 +355,7 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
 }
 ```
 
-*(Populate ISBN, date, and `aggregateRating` before publishing; add per-format `workExample` / audiobook nodes as editions release.)*
+*(Populate page count, price, cover/buy URLs, and `aggregateRating` before publishing; add per-format `workExample` / audiobook nodes as editions release. Full endorsement text is in the Advance Praise section below.)*
 
 ---
 
@@ -337,8 +367,12 @@ A: *For Such a Time as Now* by Daryl Boyer is available at Amazon, through Ingra
   "@type": "Person",
   "name": "Daryl Boyer",
   "jobTitle": ["Author", "Pastor", "Teacher", "Speaker", "Christian Recording Artist"],
-  "description": "Pastor, teacher, speaker, and Christian recording artist with a burden to see believers walk in truth, conviction, and wholehearted devotion to Christ, focusing on identity in Christ, spiritual maturity, and faithful living in a compromised culture.",
-  "knowsAbout": ["Discipleship", "Spiritual maturity", "Identity in Christ", "Holiness and obedience", "Cultural discernment", "Church renewal", "Christian leadership"],
+  "description": "Pastor, teacher, speaker, Christian recording artist, and founder of Daryl Boyer Ministries, with a burden to see believers walk in truth, conviction, and wholehearted devotion to Christ, focusing on identity in Christ, spiritual maturity, and faithful living in a compromised culture.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Daryl Boyer Ministries"
+  },
+  "knowsAbout": ["Discipleship", "Spiritual maturity", "Identity in Christ", "Holiness and obedience", "The fear of God", "Cultural discernment", "Church renewal", "Christian leadership", "Worship"],
   "url": "[INSERT AUTHOR WEBSITE]",
   "sameAs": [
     "[INSERT AMAZON AUTHOR CENTRAL URL]",
@@ -374,9 +408,29 @@ Positioning: **an urgent, uncompromising call to authentic discipleship**, in th
 
 ---
 
+## 20b. Advance Praise (Editorial Endorsements)
+
+Seven endorsements were supplied for the manuscript. Use full quotes for the front matter / sell sheet, and the short pull-quotes below for the cover, retail listings, and ads.
+
+**Short pull-quotes (cover / retail / ads):**
+- "A compelling and accurate call to the Body of Christ… biblical clarity and a sense of true spiritual authority." — **Dr. Christopher R. Barnes**, Doctorate of Kingdom Theology
+- "The book you are about to read will not allow you to remain the same." — **Dr. Andrew P. Surace**, Author & Senior Pastor, Christ Fellowship
+- "With pastoral weight and prophetic clarity, he confronts the subtle drift that has reshaped modern faith… a summons to be found faithful when it matters most." — **Jason Boyer**, Pastor, Living Water Church; former National Director of Student Ministry, FMCUSA
+- "This is not a book you simply read, it is one you respond to… it will challenge assumptions, confront complacency, and stir a deeper hunger for what is real." — **Pastor Benjamin Perry**, Doctor of Theology; Pastor, The Tabernacle of Kings
+- "It confronts the erosion within and calls believers back to spiritual conviction and truth. I wholeheartedly recommend this work." — **Rev. (Dr.) Sammy Joseph**, Founding Pastor, Sammy Joseph Ministries / Harvestways Int'l Church, Birmingham, England
+- "A clear and timely wake-up call for Christ-followers seeking biblical clarity and conviction in confused and uncertain times." — **John Henry**, Missionary, Speaker & Global Training Leader, Youth With A Mission (YWAM)
+- "A kind of spiritual GPS in a time filled with distractions… It brings clarity, direction, and a needed course correction." — **Scott W. Struck**, Public Educator
+
+*Marketing note:* This is an unusually strong, credentialed endorsement roster (multiple doctorate-level leaders, a YWAM global leader, and pastors across the US and UK). Feature named titles/affiliations prominently — they materially raise trust and conversion. Prioritize 2–3 for the back cover (Barnes, Surace, Joseph recommended) and rotate the rest through Amazon Editorial Reviews (A+), the sell sheet, and social graphics.
+
+---
+
 ## 21. Trending Reader Angles
 
+- **Identity in Christ as foundation.** Endorsers single this out as the book's standout emphasis — a high-search, high-resonance theme ("who you are in Christ") to lead with.
 - **Revival & awakening.** Ride the current cultural moment (Asbury-style revivals, Gen Z faith resurgence) with a "wake up, Church" message.
+- **"Occupy till He comes" / last-days readiness.** The closing chapters (*Ready and Watching*, *The Last Days Church*) tap end-times/preparedness interest without leaning fringe.
+- **Fear of God vs. fear of man.** A pointed, shareable tension (courage over people-pleasing) with strong sermon/reel potential.
 - **Anti-deconstruction / return to orthodoxy.** For readers tired of watered-down or deconstructed faith who want rootedness and conviction.
 - **"Cultural Christianity" debate.** A live, widely discussed topic — nominal vs. committed faith.
 - **The Laodicea / lukewarm-church angle.** "Wake up, not feel better" resonates with Revelation 3 imagery.
@@ -391,43 +445,43 @@ Positioning: **an urgent, uncompromising call to authentic discipleship**, in th
 
 ## 22. Search Visibility Score
 
-**Score: 72 / 100 — Solid, with clear upside**
+**Score: 76 / 100 — Strong**
 
 | Factor | Assessment |
 |---|---|
 | **Market demand** | High — discipleship, spiritual growth, and "authentic faith vs. culture" are large, evergreen, and timely (revival moment). |
-| **Keyword clarity** | Medium — evocative title (great brand/Esther hook) but not self-explanatory; metadata/subtitle must carry the topical keywords. |
+| **Keyword clarity** | Good — the confirmed subtitle ("A Call to Courageous Christianity in a Compromising Culture") now carries topical keywords the evocative main title alone would miss. |
 | **Category competition** | High — Spiritual Growth / Discipleship are crowded with major-name authors; niche nodes (Church Growth, Discipleship) are more winnable. |
 | **Comps strength** | High — sits beside Not a Fan, Crazy Love, Radical (proven demand, strong also-bought pull). |
-| **Author platform** | Unknown / to build — debut-level discoverability, but pastor + recording artist offers a built-in cross-promotion channel. [Confirm platform & following.] |
-| **Social proof at launch** | To build — no endorsements supplied yet; secure named blurbs from recognizable pastors/leaders and stack early verified reviews. |
-| **Giftability & bulk** | High — strong church/small-group and leadership bulk-purchase angle (Kharis quantity discounts). |
+| **Author platform** | To build — debut-level discoverability, but pastor + recording artist (Daryl Boyer Ministries) offers a built-in cross-promotion channel and long-standing ministry relationships. [Confirm reach/following.] |
+| **Social proof at launch** | Strong — seven credentialed endorsements (multiple doctorate-level leaders, YWAM global leader, US/UK pastors) already in hand; convert to full-name Editorial Reviews + verified retail reviews. |
+| **Giftability & bulk** | High — strong church/small-group and leadership bulk-purchase angle (Kharis quantity discounts); chapter Reflection Questions, Stretch Challenges, and Prayers make it group-ready. |
 
 **Highest-impact levers to raise the score:**
-1. **Add a keyword-rich subtitle** (e.g., a phrase naming *cultural Christianity*, *discipleship*, or *holiness*) so the evocative title still ranks for topical searches.
-2. **Secure named endorsements** from recognizable pastors, authors, or ministry leaders to build trust at launch.
-3. **Leverage the music platform** — cross-promote to the author's listeners; pair the book with a companion song/spoken-word release.
-4. **Target church & small-group adoption** — discussion guide, sermon-series kit, and bulk-order promos convert leaders into multi-copy buyers.
-5. **Stack verified reviews fast** — 25+ in the first 30 days to unlock browse ranking and a New Release badge in a winnable niche node.
-6. **Fill all metadata placeholders** (ISBN, price, page count, cover/buy URLs, author socials) before launch for complete retailer and schema coverage.
+1. **Feature the endorsements everywhere** — back cover, Amazon Editorial Reviews (A+), sell sheet, and social graphics; lead with the credentialed names.
+2. **Leverage the music platform** — cross-promote to the author's listeners; pair the book with a companion song/spoken-word release.
+3. **Target church & small-group adoption** — the built-in Reflection Questions / Stretch Challenges / Prayers plus a sermon-series kit and bulk-order promos convert leaders into multi-copy buyers.
+4. **Stack verified reviews fast** — 25+ in the first 30 days to unlock browse ranking and a New Release badge in a winnable niche node (Discipleship / Church Growth).
+5. **Fill remaining placeholders** (price, page count, cover/buy URLs, author website & socials, Amazon Author Central) before launch for complete retailer and schema coverage.
 
 ---
 
 ## Pre-Launch Placeholder Checklist
 
-- [ ] Confirm publisher (assumed Kharis Publishing)
-- [ ] Subtitle (recommended for discoverability)
-- [ ] ISBN-13 / ISBN-10
-- [ ] LCCN
-- [ ] Copyright year & release date
+- [x] Publisher — Kharis Publishing (confirmed)
+- [x] Subtitle — *A Call to Courageous Christianity in a Compromising Culture* (confirmed)
+- [x] ISBN-13 / ISBN-10 — 978-1-63746-741-1 / 1-63746-741-9 (confirmed)
+- [x] Copyright year — © 2026 (confirmed)
+- [x] Bible translation — New Living Translation (NLT) (confirmed)
+- [x] Endorsements / advance praise — 7 named endorsements (confirmed; see Advance Praise)
+- [ ] LCCN (blank on supplied copyright page)
+- [ ] Exact release month
 - [ ] Page count
 - [ ] Price(s) and formats releasing at launch
-- [ ] Bible translation used (for scripture-permissions/metadata)
 - [ ] Cover image URL
 - [ ] Book landing page URL (Kharis site)
 - [ ] Buy links (Amazon, Ingram, Kharis)
 - [ ] Author website, socials, and music/artist links (for Author Schema `sameAs`)
 - [ ] Amazon Author Central profile
-- [ ] Endorsements / advance praise (named)
 - [ ] Verify final BISAC/Thema selections in KDP & IngramSpark ingest pickers
-- [ ] Confirm any biographical specifics (ministry role, location, discography) before public use
+- [ ] Confirm author's city/region and discography details before public use (not specified in manuscript)

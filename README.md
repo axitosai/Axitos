@@ -34,6 +34,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Light in the Darkness | Bill Martin (William L. Martin) | [`light-in-the-darkness/`](./light-in-the-darkness/) | Complete |
 | When It Takes More Faith to Come Back | Brian M. Virtue, Ph.D. | [`when-it-takes-more-faith-to-come-back/`](./when-it-takes-more-faith-to-come-back/) | Complete |
 | The Girl I Had to Go Back and Save | Kiesha Walker | [`the-girl-i-had-to-go-back-and-save/`](./the-girl-i-had-to-go-back-and-save/) | Complete |
+| For Such a Time as Now | Daryl Boyer | [`for-such-a-time-as-now/`](./for-such-a-time-as-now/) | Complete |
 
 ---
 

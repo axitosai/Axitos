@@ -31,6 +31,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 |---|---|---|---|
 | Secrets of Sage | Keven Baxter | [`secrets-of-sage/`](./secrets-of-sage/) | Complete |
 | All Powers of God Almighty | Pastor Dr. Gabriel Ayorinde | [`all-powers-of-god-almighty/`](./all-powers-of-god-almighty/) | Complete |
+| Light in the Darkness | Bill Martin (William L. Martin) | [`light-in-the-darkness/`](./light-in-the-darkness/) | Complete |
 
 ---
 

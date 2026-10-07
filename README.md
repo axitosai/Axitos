@@ -38,6 +38,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Unleashing Holy Imagination | Duane H. Smith | [`unleashing-holy-imagination/`](./unleashing-holy-imagination/) | Complete |
 | Workers in the Kingdom | Gary Holloway | [`workers-in-the-kingdom/`](./workers-in-the-kingdom/) | Complete |
 | Beyond the Beginning | Nikki Leos | [`beyond-the-beginning/`](./beyond-the-beginning/) | Complete |
+| Beyond Flannel Board Theology | Rodney Pennington | [`beyond-flannel-board-theology/`](./beyond-flannel-board-theology/) | Complete |
 
 ---
 

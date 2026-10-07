@@ -39,6 +39,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Workers in the Kingdom | Gary Holloway | [`workers-in-the-kingdom/`](./workers-in-the-kingdom/) | Complete |
 | Beyond the Beginning | Nikki Leos | [`beyond-the-beginning/`](./beyond-the-beginning/) | Complete |
 | Beyond Flannel Board Theology | Rodney Pennington | [`beyond-flannel-board-theology/`](./beyond-flannel-board-theology/) | Complete |
+| The Modern Marriage Dilemma | Sarah Weise | [`the-modern-marriage-dilemma/`](./the-modern-marriage-dilemma/) | Complete |
 
 ---
 

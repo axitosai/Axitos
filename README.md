@@ -49,6 +49,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | 31 Choices: Speaking | M.E. Reach | [`31-choices-speaking/`](./31-choices-speaking/) | Complete |
 | The A-B-C of Prayer | Tommy Mthembu | [`the-abc-of-prayer/`](./the-abc-of-prayer/) | Complete |
 | Remember Who You Are | Lidia Meglei | [`remember-who-you-are/`](./remember-who-you-are/) | Complete |
+| Wonder, Wonder, Precious Child | Dan Yuen | [`wonder-wonder-precious-child/`](./wonder-wonder-precious-child/) | Complete |
 
 ---
 

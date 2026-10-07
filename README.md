@@ -47,6 +47,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Rise On Purpose | Pastor Patrick McKenzie | [`rise-on-purpose/`](./rise-on-purpose/) | Complete |
 | 31 Choices: Listening | M.E. Reach | [`31-choices-listening/`](./31-choices-listening/) | Complete |
 | 31 Choices: Speaking | M.E. Reach | [`31-choices-speaking/`](./31-choices-speaking/) | Complete |
+| The A-B-C of Prayer | Tommy Mthembu | [`the-abc-of-prayer/`](./the-abc-of-prayer/) | Complete |
 
 ---
 

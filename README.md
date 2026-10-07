@@ -50,6 +50,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | The A-B-C of Prayer | Tommy Mthembu | [`the-abc-of-prayer/`](./the-abc-of-prayer/) | Complete |
 | Remember Who You Are | Lidia Meglei | [`remember-who-you-are/`](./remember-who-you-are/) | Complete |
 | Wonder, Wonder, Precious Child | Dan Yuen | [`wonder-wonder-precious-child/`](./wonder-wonder-precious-child/) | Complete |
+| Complete Through Chaos | Dontay Elliott | [`complete-through-chaos/`](./complete-through-chaos/) | Complete |
 
 ---
 

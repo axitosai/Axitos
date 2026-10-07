@@ -1,396 +1,473 @@
 # Secrets of Sage — Publishing, Metadata & Discoverability Kit
 
 **Title:** Secrets of Sage
+**Subtitle:** *(none on the title page)*
 **Author:** Keven Baxter
-**Category:** Middle-Grade (9–12) Christian Fantasy Adventure
-**Prepared for:** Amazon (KDP), IngramSpark, and the marketing team
-**Goal window:** High-conversion sales pitch within 1–3 months
+**Legal name:** Keven Franklin Baxter
+**Publisher:** Kharis Publishing, an imprint of Kharis Media LLC
+**ISBN-13:** 978-1-63746-783-1 *(valid)*
+**ISBN-10:** 1-63746-783-1 is printed on the copyright page and does **not** validate. The check digit for body 163746783 is 4, so the likely ISBN-10 is 1-63746-783-4. Do not load the printed ISBN-10.
+**LCCN:** blank on the copyright page
+**Copyright:** © 2026 Keven Baxter
+**Length:** He estimates about 58,000 words. A message to readers begins on page 224. Acknowledgments begin on page 226.
+**Form:** Twenty-eight chapters in the typeset contents, plus the message and the acknowledgments. The proposal outline has twenty-five chapters and is the earlier draft.
+**Line under the author name:** Wisdom Stories. Treat this as a possible series name or a tagline until he says which. It is unnumbered. It does not, by itself, place *Kingdom in the Redwoods* or *Kingdom in Peril* in a series.
 
-> How to use this document: everything is drop-in ready. Copy the bios/summaries into the exact fields named in each heading. Codes (BISAC/Thema) are current as of the 2024 BISAC list and the EDItEUR Thema v1.6 scheme. Placeholders in `[brackets]` (ISBN, price, cover URL, buy links) must be filled before publishing schema/metadata.
+> **Confirm before the record is locked:**
+> - **One table of contents.** Use the typeset list (28 chapters). The proposal list (25 chapters) renames several episodes and omits three. A mapping is in section 6.
+> - **Gracie's age and her hand.** The typeset opening says she is nine and that her hand is missing. The proposal's cast list says she is ten. An earlier sample chapter calls the hand withered and speaks of "one good hand." Jacket copy uses nine, and missing. Confirm both against the final interior. Do not make the injury the hook. She does not want to be treated as fragile.
+> - **Names from the earlier samples.** Shamus, Mungo, the schooner Elsie, the Hydra, peppermint snow, and the word "snifflers" are in the proposal chapters. The typeset excerpt of chapter 1 does not use them, and it has no wild boar. Dagan is safer: he is in the synopsis and in the typeset chapter title "Dagan's Hollow." Confirm the rest before the jacket locks those names.
+> - **Scripture.** The copyright page permits the Revised Standard Version (1952, 1956, 1971) and the New Revised Standard Version Updated Edition (2021). The typeset Ecclesiastes 1:13 matches the RSV. The proposal's copy of that verse is garbled ("God as given," "buy which"). Quote the typeset line. The epigraph, Proverbs 3:13–15, is labeled "New Revised Standard Updated Edition," which drops the word Version. The proposal paired a verse with each of 25 chapters. Re-check those pairings against the final interior, because the chapter list changed.
+> - **ISBN-10 and LCCN.** Load ISBN-13 only until the ISBN-10 is corrected. Request the Library of Congress number. The line on the page is empty.
+> - **Wisdom Stories.** Fill a series field only after he confirms it is a series. Do not number the volume. Do not pull the earlier novels into it.
+> - **The award.** He calls himself award-winning. This packet does not name the prize. Confirm it before the word is locked on the jacket.
+> - **Unnamed on purpose.** Schools for the four degrees, his wife's name, the nonprofit's name, and any nonprofit totals are not in this packet. Do not add them. An earlier metadata draft invented biography and comparable titles he did not supply. Ignore that draft. This file replaces it.
+> - **The rank.** He says *Kingdom in the Redwoods* was a number-one new release in its category. The category and the date are unnamed. Print it as his report, not as a current rank.
+> - **No endorsements.** None were supplied. Do not draft any.
+> - **Covers.** Four designs were attached to the proposal and are not in this packet. Three were made by a designer and one by an image model. Do not print the model-made cover until design and rights are checked. Do not describe a cover that is not in the file.
+> - **Private contact.** A Laguna Niguel mailing address was on the proposal. Do not print the street, the phone, or the personal email. Southern California is the public place.
+> - **Author copies.** He can buy 50 copies, to give away, and he says he has no separate sales path. The form notes that Kharis authors often buy 1,000 to 2,000. His hope is to break even. Keep the hope, and the copy count, off the cover.
+> - **Two Kingdoms.** The novel exists (see section 19). It is young adult, published in 2020. It is a fair comparison and a weak "recent middle-grade" comp.
 
 ---
 
-## 1. Author Bios
+## 1. 70-Word Author Bio (Back Cover)
 
-### 1a. 70-Word Author Bio — *Back Cover*
-Keven Baxter is an award-winning author who writes fantasy adventures rooted in faith, hope, and the belief that every child carries a God-given spark of courage. His stories help young readers discover the hero inside. Baxter lives in Southern California with his family and founded a Christian nonprofit providing sports to children in need. His books include *Kingdom in the Redwoods* (#1 New Release), *Kingdom in Peril*, and *Secrets of Sage*.
+Keven Baxter is a lawyer turned award-winning author of Christian adventure. He holds degrees in theology, law, economics, and business administration. He lives in Southern California with his family and founded a Christian nonprofit that provides sports to children in need. His books include Kingdom in the Redwoods, Kingdom in Peril, and Secrets of Sage. He writes so children nine to twelve can find courage and wisdom. Visit kevenbaxter.com.
 
 *(70 words)*
 
 ---
 
-### 1b. 150-Word Author Bio — *Amazon & IngramSpark*
-Keven Baxter is an award-winning author whose fantasy adventures blend thrilling storytelling with the deeper truths of faith, hope, and the God-given courage that lives inside every child. Writing for middle-grade readers, he crafts imaginative worlds where light breaks through darkness and biblical wisdom shapes every hero's journey.
+## 2. 150-Word Author Bio (Amazon / IngramSpark)
 
-Baxter grew up in rural Northern California, the youngest of five, and overcame early struggles with reading before earning degrees from UC Santa Barbara, UC Berkeley, and a master's in theology from Southern Seminary. After thirty years as a lawyer and technology executive, he founded Sports Gift, a Christian nonprofit that has delivered more than 300,000 items to children across sixty countries.
+Keven Baxter publishes under that name. His legal name is Keven Franklin Baxter. He is a lawyer turned author of Christian adventure for young readers, and he writes so children can find courage and wisdom. He holds degrees in theology, law, economics, and business administration. He lives in Southern California with his wife, his daughters, and his grandsons. He founded a Christian nonprofit that provides sports to children in need.
 
-He is the author of *Kingdom in the Redwoods* (#1 New Release), *Kingdom in Peril*, and *Secrets of Sage*. Baxter lives in Southern California with his wife, close to his daughters and grandsons. Visit www.kevenbaxter.com.
+Kharis Publishing released his first novel, Kingdom in the Redwoods. Kingdom in Peril is a separate book. Secrets of Sage is his middle-grade fantasy for ages nine to twelve, a portal story about four friends who must choose wisdom to find the way home. Parents are part of the audience, because he wants a clean story a family can trust and a child will finish for the adventure itself. He welcomes boys and girls alike. Find him at kevenbaxter.com.
 
 *(150 words)*
 
 ---
 
-### 1c. 500-Word Author Bio — *Marketing Team Use*
-Keven Baxter is an award-winning author whose stories blend thrilling adventure with the deeper truths of faith, hope, and the God-given courage that lives inside every child. His writing invites young readers into imaginative worlds where light breaks through darkness, heroes rise in unexpected ways, and biblical wisdom shapes the journeys his characters must take. Whether writing for middle-grade readers or older audiences, Baxter's mission is to help young people discover the hero inside and understand that their identity and purpose are rooted in something far greater than themselves.
+## 3. 500-Word Author Bio (Marketing Team Use)
 
-Baxter's passion for reaching the next generation was ignited by the birth of his two grandsons. Seeing the cultural pressures facing Christian families, he felt a renewed calling to create stories that affirm the goodness, beauty, and truth of God's redemptive love. He believes deeply that storytelling is one of the most powerful ways to shape hearts, strengthen faith, and inspire courage in young readers.
+Keven Franklin Baxter publishes as Keven Baxter. He is a lawyer turned author of Christian adventure, and he describes the work as award-winning. This packet does not name the award. He holds degrees in theology, law, economics, and business administration. The schools are not named. He lives in Southern California with his wife, his daughters, and his grandsons. A Laguna Niguel mailing address was on the proposal. Do not print the street, phone, or personal email.
 
-Baxter grew up in a rural Northern California town, the youngest of five children, exploring wooded chaparral mountains, apricot orchards, and the rugged beauty of the outdoors. Though he struggled as a young reader—languishing at the bottom of the SRA color staircase—his sixth-grade teacher introduced him to the White Mountains trilogy, unlocking a lifelong love of reading. Those early experiences of wonder and transformation now fuel the imaginative landscapes and emotional depth of his fiction.
+He founded a Christian nonprofit that provides sports to children in need. The name and the totals are not in this packet. His site is kevenbaxter.com. He reports about 4,200 Facebook followers at Keven.Baxter, about 103 on Instagram at kevenbax, and about 280 newsletter subscribers. No endorsements were supplied for Secrets of Sage.
 
-He studied economics at the University of California, Santa Barbara, where he met his wife, Claire. He later earned a law degree and MBA from the University of California, Berkeley, and spent thirty years working in California's technology industry as a lawyer and business executive. During those years, he and Claire raised two daughters, and Baxter spent countless evenings reading bedtime stories—moments that shaped his understanding of the power of shared imagination.
+Kharis Publishing published his debut, Kingdom in the Redwoods. He says it was a number-one new release in its category. The category and date are unnamed. Kingdom in Peril is listed between that novel and Secrets of Sage. He does not call Peril a sequel. The title page sets Wisdom Stories under his name. It may be a series or a tagline, and it is unnumbered.
 
-Driven by a desire to teach his daughters the joy of serving others, Baxter founded Sports Gift, a Christian nonprofit dedicated to providing sports equipment to impoverished children around the world. Under his leadership, the organization distributed more than 300,000 items to communities in over sixty countries, impacting an estimated half-million children. His work with youth volunteers and global ministries gave him a firsthand understanding of the challenges young people face today—insights that now enrich his storytelling.
+He wants Christian readers, especially ages nine to twelve, to have adventure that is fun first and wise underneath. His brand promise is stories of Christ's kingship, courage, and peace of mind. He estimates about 58,000 words. He says the manuscript is complete. He had not offered it to other publishers, and he was under no other contract. The copyright page names Kharis Publishing and the year 2026.
 
-In 2019, Baxter earned a master's degree in theology from Southern Seminary and later joined an international relief organization serving persecuted Christian communities worldwide. These experiences deepened his understanding of courage, sacrifice, and hope—core themes woven throughout his novels.
+Four friends hike Whispering Mountain in early summer. Liam's map, a gift from his father, has no cave on the Piedmont Trail. A sign asks if they are brave enough to search for wisdom. A green cloud takes them into Sage, and the way home is sealed. His synopsis adds a quirky sage, a brilliant parrot, storm-torn seas, whispering forests, and Dagan, who grows when they fail. Liam still carries Gracie's accident. The typeset chapter says she is nine and that her hand is missing. An earlier cast list says ten, and an earlier chapter says the hand is withered. Liam and Scarlet are twelve. Henry is a year older than Gracie there.
 
-Baxter is the author of *Kingdom in the Redwoods*, which debuted as a #1 New Release, its sequel *Kingdom in Peril*, and his newest middle-grade fantasy, *Secrets of Sage*. He lives in Southern California with his wife, close to his daughters and grandsons, and continues to write stories that shine a light on God's goodness and inspire young readers to discover the hero inside.
+Use the typeset contents: twenty-eight chapters, a message to readers on page 224, and acknowledgments on page 226. The proposal's twenty-five chapters keep older titles, and names such as Shamus, Mungo, Elsie, and Hydra appear only in those samples. Scripture permissions cover the Revised Standard Version and the New Revised Standard Version Updated Edition. Quote the typeset Ecclesiastes 1:13. The proposal's verse is garbled. ISBN-13 978-1-63746-783-1 checks. The printed ISBN-10 does not, and the Library of Congress line is blank. He will buy 50 copies to give away. A spring release would suit the summer story. He does not require that date. One of four proposed covers came from an image model and should wait for a rights check.
 
-Learn more at www.kevenbaxter.com.
-
-*(≈500 words)*
+*(500 words)*
 
 ---
 
-## 2. Book Summaries
+## 4. 120-Word Book Summary (Back Cover)
 
-### 2a. 120-Word Book Summary — *Back Cover*
-In Sage, every turn hides something ready to chase, bite, or roar—and getting home means facing all of it.
+Liam promised his little sister a summer hike. He did not know the mountain would lock the door behind them.
 
-Liam, his little sister Gracie, and their two best friends never meant to fall into a strange world. But Sage doesn't care. Now they're trapped in a place where nothing makes sense: whispering forests, twisting riddles, and creatures that stalk the shadows.
+Secrets of Sage, by Keven Baxter, follows four friends up Whispering Mountain into a cave missing from the map. A sign asks if they are brave enough to search for wisdom. They step into a green cloud and come out in Sage, and the way home is gone. Seas, forests, and riddles test courage, honesty, and friendship, while Dagan grows stronger each time they fail. Liam still carries the day of Gracie's accident. Wisdom, he has to learn, is the right choice when the next step feels impossible. For readers nine to twelve. A parent can read it aloud too.
 
-All they want is to get home. But Sage has other plans. To escape, they must survive its trials, outsmart its monsters, and uncover the mission Sage has been waiting for them to discover—a mission that demands more than bravery. It demands wisdom.
-
-An adventure filled with danger, mystery, friendship, and the kind of courage that lights the way home.
-
-*(≈120 words)*
+*(120 words)*
 
 ---
 
-### 2b. 350-Word Book Summary — *Amazon & IngramSpark*
-Some doors are never meant to be opened. Liam and his friends open one anyway.
+## 5. 350-Word Book Summary (Amazon / IngramSpark)
 
-Twelve-year-old Liam never meant to lead anyone into danger—especially not his little sister, Gracie. But when a summer hike leads the four friends to a hidden cave glowing with green light, they tumble through a sealed portal into Sage, a strange and wondrous world where every path tests the heart… and the way home has vanished.
+**A summer hike was the promise. Sage kept the door.**
 
-Their only hope of returning lies in following a mysterious trail laid out by Shamus, their quirky guide, and Mungo, a brilliantly colored parrot. But Sage is not a gentle place. The children must cross storm-torn seas, outwit whispering forests, and face monsters born of lies, pride, and fear—all while the shadowy villain Dagan hunts them, feeding on the weaknesses of everyone who wanders his realm. Each challenge demands courage, truth, and wisdom. Each failure brings Dagan closer. And each step forces Liam to confront the guilt he has carried since Gracie's accident.
+Twelve-year-old Liam never meant to lead anyone into danger, least of all his little sister, Gracie. A summer hike on Whispering Mountain was supposed to be the adventure he had promised. The Piedmont Trail is not on the trips he took with his father. Neither is the cave.
 
-*Secrets of Sage* is a middle-grade fantasy adventure (ages 9–12) that unfolds like an episodic series, sending readers deeper into a land of riddles, danger, and moral crossroads. Every episode draws inspiration from a specific Bible verse—primarily from Proverbs—revealing practical lessons about courage, humility, honesty, friendship, and wisdom. Yet the story never preaches. It thrills first, and lets its deeper truths shine through naturally.
+Inside, an old sign asks a question. Are you brave enough to search for wisdom? Proceed with caution. Liam fits his knife into a small hole, and the rock becomes a green cloud full of gold sparks. The four of them step through. The cloud does not wait for them on the other side.
 
-At its heart, *Secrets of Sage* shows young readers that true wisdom begins with humility, and that trusting God's guidance can illuminate even the most mysterious paths. To get home, Liam must learn the hardest lesson of all: wisdom isn't about being perfect—it's about choosing what's right when everything feels impossible.
+Sage is a land of paths, and every path tests the heart. The author's story sends the children on with a quirky old sage and a brilliantly colored parrot. Storm-torn seas, whispering forests, riddles, and creatures born from lies, pride, and fear stand between them and home. A shadowy villain, Dagan, feeds on weakness. Each failure brings him closer. Each chapter is its own trial, and the trials are built on Scripture, above all the book of Proverbs. Courage, humility, honesty, friendship, and wisdom are the lessons, carried by the plot rather than a sermon.
 
-Full of adventure, heart, and timeless truth, this is safe, clean fiction that parents can trust and kids will devour. Perfect for fans of *The Chronicles of Narnia*, *The Green Ember*, and *The Wingfeather Saga*, *Secrets of Sage* invites every reader into a world where each choice shapes the journey—and every child discovers they're braver than they think.
+Liam's private trial is older than Sage. Gracie lost her hand in an accident, and he has not forgiven himself. The typeset opening says she is nine. An earlier cast list says ten. She does not want to be treated as fragile. He wants to prove he can keep her safe. The hardest page in the book is the one where he learns that wisdom is not perfection. It is the right choice when everything feels impossible.
 
-*(≈350 words)*
+The typeset book has twenty-eight chapters, a message to readers, and acknowledgments. Boys and girls from nine to twelve are the readers he named, with parents, churches, and homeschool families close behind too. It is clean on purpose. The fun comes first. The wisdom is the reason they can trust it. He estimates about fifty-eight thousand words. A family can finish a chapter in one sitting.
 
----
-
-## 3. Book Genre & Sub-Genre
-
-- **Primary genre:** Juvenile / Middle-Grade Fiction — Fantasy
-- **Primary sub-genre:** Christian (Inspirational / Faith-based) Fantasy
-- **Secondary sub-genres:**
-  - Portal / Quest ("alternate world") Fantasy
-  - Action & Adventure
-  - Allegorical Fiction (Proverbs-driven, à la modern *Pilgrim's Progress* for kids)
-  - Friendship & Values / Coming-of-Age
-- **Positioning line:** *A clean, faith-filled middle-grade portal fantasy where every chapter is an adventure and a lesson in wisdom.*
+*(350 words)*
 
 ---
 
-## 4. Category Search (Amazon Browse Placements)
+## 6. Book Genre & Sub-Genre
 
-Amazon lets you pick up to **3 categories** at setup and request additional niche placements via KDP support. Target these browse paths (print + Kindle):
+- **Primary genre:** Juvenile fiction — Christian fantasy
+- **Sub-genres:** Portal fantasy · Action and adventure · Values and virtues (courage, humility, honesty, friendship, wisdom)
+- **Audience he named:** Christian middle-grade readers, ages 9 to 12, boys and girls. Parents, churches, private schools, and homeschool families are the buyers he plans to reach. The United States is first. Europe is second.
+- **Not this book:** a young-adult novel, a picture book, a devotional, or a licensed fantasy companion. The faith is in the story. He wants the ride to come before the lesson.
+- **Frame:** Each episode is built to carry a biblical idea, above all from Proverbs. The copyright page names the Revised Standard Version and the New Revised Standard Version Updated Edition. Re-check verse pairings after the chapter list is locked.
+- **Shape (typeset contents):**
+  1. A Great Adventure
+  2. Realm of Sage
+  3. Invisible Sea
+  4. Fibbery Forest
+  5. Sinking Sand
+  6. Crabby Circus
+  7. The Forked Path
+  8. Waterfall Grotto
+  9. Castle on a Hill
+  10. Bottom Well
+  11. Kingly Feast
+  12. The Mirror Pool
+  13. The King's Road
+  14. Dragons Breath
+  15. Yeti
+  16. Mudslinger
+  17. Crackling Dam
+  18. Sleepy Justice
+  19. Peacock Palace
+  20. Ironhook and the Stink Spots
+  21. Dagan's Hollow
+  22. Foolish Flattery
+  23. Mouth Bugs
+  24. Cozy Cage
+  25. Arena of Fear
+  26. The Dungeon
+  27. Morning's Light
+  28. The Way Home
+  - Message to Readers (p. 224)
+  - Acknowledgments (p. 226)
 
-**Print (Amazon.com › Books):**
-1. Books › Children's Books › Religions › Christianity › **Fantasy & Adventure**
-2. Books › Children's Books › Science Fiction & Fantasy › **Fantasy & Magic**
-3. Books › Children's Books › **Action & Adventure**
+**Title changes from the proposal outline.** Prefer the right-hand column.
 
-**Kindle (Kindle eBooks):**
-1. Kindle Store › Kindle eBooks › Children's eBooks › Religion › Christianity › **Fantasy & Adventure**
-2. Kindle Store › Kindle eBooks › Children's eBooks › Science Fiction & Fantasy › **Fantasy & Magic**
-3. Kindle Store › Kindle eBooks › Children's eBooks › **Action & Adventure**
+| Earlier outline | Typeset contents |
+|---|---|
+| Hamlet of Sage | Realm of Sage |
+| Invincible Sea | Invisible Sea |
+| Envy Island | Waterfall Grotto |
+| Bottomless Well | Bottom Well |
+| Justice Junction | Sleepy Justice |
+| Cruel Crossing | Ironhook and the Stink Spots |
+| Dagan's Castle | Dagan's Hollow |
 
-**Best-Seller Rank strategy:** the *Christianity › Fantasy & Adventure* node is the lowest-competition, highest-relevance category — most winnable for a "#1 New Release"/orange-banner badge in the first 30 days. Chase that badge first, then broaden.
+Foolish Flattery, Mouth Bugs, and Morning's Light are in the typeset list and not in the proposal outline. Cozy Cage, Arena of Fear, The Dungeon, and The Way Home moved later to make room for them.
 
 ---
 
-## 5. IngramSpark Categories & Required Subject Fields
+## 7. Category Search (Amazon Browse Placements)
 
-### 5a. IngramSpark Categories (BISAC — enter up to 3)
-| Priority | BISAC Code | BISAC Heading |
-|---|---|---|
-| 1 (Primary) | **JUV033110** | JUVENILE FICTION / Religious / Christian / Fantasy & Science Fiction |
-| 2 | **JUV037050** | JUVENILE FICTION / Fantasy / Portals & Alternate Worlds |
-| 3 | **JUV033040** | JUVENILE FICTION / Religious / Christian / Action & Adventure |
+**Choose up to three:**
 
-*Alternate/backup BISACs if a field needs swapping:* JUV033240 (Christian / Values & Virtues), JUV033120 (Christian / Friendship), JUV037000 (Fantasy / General), JUV001000 (Action & Adventure / General).
+1. Books › Children's Books › Religions › Christianity › Fantasy & Science Fiction
+2. Books › Children's Books › Literature & Fiction › Religious Fiction › Christian › Action & Adventure
+3. Books › Children's Books › Religions › Christianity › Values & Virtues
 
-### 5b. Regional Subject
-- **Not applicable / None** — the story is set in the fictional world of Sage (the framing hike opens in Northern California only).
-- If a regional value is *required* by a retailer feed, use **United States** (secondary market focus: Europe/UK).
+**Also consider:**
 
-### 5c. Thema Qualifiers (EDItEUR Thema v1.6)
-| Qualifier | Meaning | Why |
-|---|---|---|
-| **5AK** | Interest age: from c 9 years | Lower bound of the 9–12 audience (Thema uses the base age) |
-| **5PGM** | Relating to Christian people and groups | Faith perspective / Christian themes |
-| *(optional)* **1KBB-US** | United States (Place) | Only if you want to flag the U.S. framing setting |
+- Kindle Store › Kindle eBooks › Children's eBooks › Religions › Christianity › Fantasy & Science Fiction
+- Books › Children's Books › Religions › Christianity › Friendship
+- Books › Children's Books › Religions › Christianity › General
 
-### 5d. Thema Subjects (EDItEUR Thema v1.6)
-| Priority | Thema Code | Meaning |
-|---|---|---|
-| 1 (Primary) | **YFH** | Children's / Teenage fiction: Fantasy *(explicitly includes portal fantasy & alternate worlds)* |
-| 2 | **YFK** | Children's / Teenage fiction: Religious and spiritual stories *(faith-inspired/inspirational fiction)* |
-| 3 *(optional)* | **YFB** | Children's / Teenage fiction: General / adventure |
-
-> Thema rule reminder: the **primary** subject for all children's fiction must be a `YF*` code (YFH here), paired with **one** `5A*` interest-age qualifier (5AK) and the `5PGM` interest qualifier for the Christian theme.
+> Fantasy is the home shelf. Action and adventure catches the quest. Values and virtues catches the parent who is buying wisdom without wanting a sermon. Do not file it under Young Adult. The stated range starts at nine. Do not file it under picture books or adult religion.
 
 ---
 
-## 6. Amazon BISAC Categories
-Enter these in KDP's "Categories/BISAC" step (Amazon maps BISAC → browse nodes):
+## 8. IngramSpark Categories (BISAC — up to 3)
+
+1. **JUV033110** — JUVENILE FICTION / Religious / Christian / Fantasy & Science Fiction *(primary)*
+2. **JUV033040** — JUVENILE FICTION / Religious / Christian / Action & Adventure
+3. **JUV033240** — JUVENILE FICTION / Religious / Christian / Values & Virtues
+
+**If a slot must change:**
+
+- **JUV033120** — JUVENILE FICTION / Religious / Christian / Friendship *(the cast of four is the friendship shelf)*
+- **JUV033010** — JUVENILE FICTION / Religious / Christian / General
+- **JUV001000** — JUVENILE FICTION / Action & Adventure / General *(only if a Christian slot is already full and a general adventure slot is wanted)*
+
+*(JUV033110, JUV033040, JUV033240, JUV033120, JUV033010, and JUV001000 are on the current BISG Juvenile Fiction list. BISG assigns juvenile fiction to ages 0–11, preschool through grade 6, and young adult fiction to ages 12–18. He calls this book middle grade, ages 9 to 12, so the juvenile codes are the primary set. If the house later decides the book belongs with twelve-year-old readers only, the young-adult counterpart for the fantasy slot is YAF051060, YOUNG ADULT FICTION / Religious / Christian / Fantasy. Do not lead with a young-adult code while the floor of the audience is nine.)*
+
+---
+
+## 9. Regional Subject (Ingram)
+
+**None.** Sage is a made place. Southern California is where he lives. Laguna Niguel was a mailing address on the proposal. Neither is the subject of the book. Leave the regional subject blank. Do not add a California or Europe place code.
+
+---
+
+## 10. Thema Qualifiers & Subjects (EDItEUR Thema v1.6)
+
+**Subjects:**
+
+- **YFH** — Children's / Teenage fiction: Fantasy *(primary; the scope note explicitly includes portal fantasy and accidental travel)*
+- **YFC** — Children's / Teenage fiction: Action and adventure stories
+
+**Qualifiers:**
+
+- **5AK** — Interest age: from c 9 years *(required with a Y code; EDItEUR's note on 5A says a book for ages 9 to 12 should use 5AK as the lower age)*
+- **5PGM** — Relating to Christian people and groups *(the Christian frame is part of the story, not only a marketing audience)*
+
+YFH must be the main subject. Send exactly one 5A age qualifier. Do not also send 5AJ, which starts at about 8. Do not lead with an adult QR code. YFHB (epic and heroic fantasy) is a child of YFH, so do not send both. A quest is already inside the fantasy heading he needs, and the portal is named on YFH.
+
+---
+
+## 11. Amazon BISAC Categories
+
+When KDP asks for two codes, use:
 
 1. **JUV033110** — JUVENILE FICTION / Religious / Christian / Fantasy & Science Fiction
-2. **JUV037050** — JUVENILE FICTION / Fantasy / Portals & Alternate Worlds
-3. **JUV033040** — JUVENILE FICTION / Religious / Christian / Action & Adventure
+2. **JUV033040** — JUVENILE FICTION / Religious / Christian / Action & Adventure
 
-*Backups:* JUV033240 (Values & Virtues), JUV033120 (Friendship), JUV037040 (Fantasy / Magic).
-
----
-
-## 7. Keywords Search (Ingram & Amazon)
-
-### 7a. Amazon — 7 Backend Keyword Slots (≤50 chars each, no repetition of title/author/category words)
-1. `christian fantasy books for kids ages 9 12`
-2. `middle grade portal fantasy adventure novel`
-3. `clean books for boys and girls chapter book`
-4. `faith based story proverbs wisdom courage`
-5. `homeschool christian fiction 4th 5th 6th grade`
-6. `narnia wingfeather green ember read alike`
-7. `friendship siblings quest good vs evil kids`
-
-### 7b. IngramSpark — Keywords Field (comma-separated)
-`Christian middle grade fantasy, portal fantasy for kids, clean fiction ages 9-12, faith-based adventure, Proverbs wisdom story, biblical allegory for children, homeschool novel, courage and friendship, Christian books for boys, Christian books for girls, good vs evil, coming of age adventure`
-
-### 7c. High-Intent Long-Tail Search Phrases (for ads, blog, and PDP copy)
-- "clean fantasy books for 10 year old boys"
-- "Christian books for tween girls"
-- "wholesome middle grade fantasy series"
-- "books like Narnia for Christian kids"
-- "Bible-based adventure stories for kids"
-- "gift books for Christian tweens"
+Put JUV033240 in the third Ingram slot. The keyword slots then carry Proverbs, homeschool, read-aloud, and the 9-to-12 age, which the dropdowns will not.
 
 ---
 
-## 8. SEO / AEO / GEO Meta Titles
+## 12. Keywords Search
 
-| Field | Value | Char count |
-|---|---|---|
-| **SEO Meta Title (≤60)** | `Secrets of Sage \| Christian Middle-Grade Fantasy Book` | 53 |
-| **AEO/GEO Meta Title (≤90)** | `Secrets of Sage: A Faith-Filled Middle-Grade Fantasy Adventure for Kids 9–12` | 76 |
+### 12a. Amazon backend keyword slots (7 slots · 50 characters or fewer)
 
----
+1. `christian fantasy ages 9 to 12` *(30)*
+2. `middle grade portal adventure` *(29)*
+3. `proverbs stories for kids` *(25)*
+4. `clean fiction for christian families` *(36)*
+5. `homeschool fantasy read aloud` *(29)*
+6. `courage and humility for children` *(33)*
+7. `fantasy adventure for boys and girls` *(36)*
 
-## 9. SEO / AEO / GEO Meta Descriptions
+*(The title already indexes "secrets" and "sage." These slots reach the age, the portal, Proverbs, the parent buyer, homeschool read-aloud, and a cast for both boys and girls. Do not spend a slot on the title. Do not add another author's characters or a film title.)*
 
-| Field | Value | Char count |
-|---|---|---|
-| **SEO Meta Description (≤160)** | `Secrets of Sage is a clean, faith-filled middle-grade fantasy (ages 9–12). Four friends fall into a magical world and must find wisdom to get home.` | 147 |
-| **AEO/GEO Meta Description (≤200)** | `Secrets of Sage is a clean, Christian middle-grade fantasy for readers 9–12. When four friends tumble into the magical world of Sage, they must survive its trials and find God's wisdom to get home.` | 197 |
+### 12b. High-intent keyword bank
 
----
+Christian middle grade fantasy · portal fantasy for ages 9–12 · Proverbs for kids · wisdom stories for children · clean Christian fiction · homeschool read aloud · family read-aloud fantasy · courage for boys and girls · humility in a children's novel · friendship adventure · Dagan · Whispering Mountain · faith-based chapter book · Christian parents of tweens · summer story for kids · church library fiction · private school read
 
-## 10. Target Audience & Reading Level
+### 12c. Long-tail phrases
 
-- **Primary audience:** Christian middle-grade readers, **ages 9–12** (both boys and girls).
-- **Secondary audience:** Faith-based families and homeschool communities of all ages; reluctant readers who enjoy episodic, cliff-hanger adventure.
-- **Buyer/gatekeeper audience:** Christian parents, grandparents, teachers, homeschool co-ops, church & Christian-school libraries, Sunday-school leaders.
-- **Geography:** Primary — United States. Secondary — Europe/UK.
-- **Grade level:** Grades 4–7.
-- **Estimated reading level:** Lexile ≈ **600L–800L** (typical upper-middle-grade band); interest age 9–12; read-aloud suitable for ages 7+.
-- **Content assurance:** Clean and safe — no profanity, no graphic content; peril and "monsters" are age-appropriate and allegorical (embodying lies, pride, fear).
-- **Estimated length band:** middle-grade novel (episodic chapters), a comfortable independent read and a strong family read-aloud.
+- "christian fantasy for ages 9 to 12 that is fun first"
+- "middle grade portal story about wisdom and courage"
+- "proverbs adventure for homeschool families"
+- "clean fantasy a parent can read aloud"
+- "four friends trapped in another world"
+- "a children's novel about choosing what is right"
 
 ---
 
-## 11. AEO FAQ (Answer-Engine Optimization)
-*Drop these onto the book/landing page as an FAQ block with `FAQPage` schema (see §14) so AI assistants and Google can quote them directly.*
+## 13. SEO / AEO / GEO Meta Titles
 
-**Q: What is *Secrets of Sage* about?**
-A: *Secrets of Sage* is a middle-grade Christian fantasy adventure. Four friends—Liam, his sister Gracie, Scarlet, and Henry—fall through a hidden portal into the magical world of Sage and must survive its trials, outsmart the villain Dagan, and find God's wisdom to make their way home.
-
-**Q: What age group is *Secrets of Sage* for?**
-A: It's written for readers ages 9–12 (grades 4–7) and works as an independent read or a family read-aloud for ages 7 and up.
-
-**Q: Is *Secrets of Sage* a Christian book?**
-A: Yes. Each chapter is inspired by a Bible verse—mostly from Proverbs—and explores courage, humility, honesty, friendship, and wisdom. The faith themes are woven into the adventure rather than preached.
-
-**Q: Is the book clean and appropriate for kids?**
-A: Yes. It contains no profanity or graphic content. The peril and "monsters" are age-appropriate and allegorical, so parents can trust it while kids enjoy a genuine adventure.
-
-**Q: What books is *Secrets of Sage* similar to?**
-A: Readers who love *The Chronicles of Narnia*, *The Wingfeather Saga*, *The Green Ember*, and Chuck Black's *Kingdom* series will feel right at home.
-
-**Q: Who wrote *Secrets of Sage* and are there other books?**
-A: It's by award-winning author Keven Baxter, who also wrote *Kingdom in the Redwoods* (a #1 New Release) and *Kingdom in Peril*. Learn more at www.kevenbaxter.com.
-
-**Q: Where can I buy *Secrets of Sage*?**
-A: It's available on Amazon and, via IngramSpark distribution, through bookstores and libraries. `[Insert buy link]`
+- **60 characters or fewer:** `Secrets of Sage — Middle-Grade Christian Fantasy` *(48)*
+- **90 characters or fewer:** `Secrets of Sage by Keven Baxter, a Christian Fantasy for Ages 9–12` *(66)*
 
 ---
 
-## 12. GEO Citation Snippet (Generative-Engine Optimization)
-*A concise, fact-dense, quotable paragraph designed to be lifted verbatim by ChatGPT, Gemini, Perplexity, Google AI Overviews, etc. Place it high on the page and in the book's description.*
+## 14. SEO / AEO / GEO Meta Descriptions
 
-> *Secrets of Sage* (by Keven Baxter) is a clean, Christian middle-grade fantasy-adventure novel for readers ages 9–12. Four friends—Liam, Gracie, Scarlet, and Henry—accidentally travel through a portal into the world of Sage, where they must overcome trials, evade the villain Dagan, and discover wisdom to find their way home. Each chapter draws on a Bible verse (primarily from Proverbs), weaving lessons about courage, humility, honesty, and friendship into an episodic adventure. It's frequently recommended for fans of *The Chronicles of Narnia*, *The Wingfeather Saga*, and *The Green Ember*, and is popular with Christian families, homeschoolers, and school libraries seeking safe, faith-affirming fiction.
-
-**GEO tips:** keep this snippet consistent everywhere (Amazon A+, author site, retailer feeds, Goodreads); use the exact title + author string; state audience age, comps, and themes as plain facts; add author credibility (awards, prior #1 New Release) so engines cite you as authoritative.
+- **160 characters or fewer:** `Secrets of Sage by Keven Baxter is a Christian portal fantasy for ages 9–12, about four friends who must find wisdom to get home from Sage.` *(139)*
+- **200 characters or fewer:** `In Secrets of Sage, Keven Baxter sends four friends through a green cloud into a world that will not let them leave until wisdom, not bravery alone, shows the way home.` *(168)*
 
 ---
 
-## 13. Product Schema (JSON-LD)
-*Add to the book's landing page. Fill `[bracketed]` values before publishing.*
+## 15. Target Audience & Reading Level
+
+- **Primary, in his words:** Christian middle-grade readers, ages 9 to 12. Boys and girls. The United States first, Europe second.
+- **Buyers:** Parents and families, private schools, homeschool groups, churches, and other faith communities. He plans to market to those groups once a release date exists.
+- **Use:** Independent reading, a family chapter at night, a read-aloud, a church or homeschool library. The chapters are built as episodes, so a group can stop at the end of one.
+- **Reading level:** Middle-grade chapter book. Roughly grades 4–6. The typeset opening is concrete and spoken. No Lexile was supplied. Do not invent one.
+- **Tone:** Fun first, clean on purpose, with wisdom under the adventure. He does not want a sermon wearing a story's clothes. The Proverbs frame should stay visible to a parent and light on the child.
+- **Season:** The hike is early summer, the second week. He thinks a spring release, near the end of school, would help, and he says the date is not required. He has no launch event.
+- **Handle with care:** Gracie's missing hand and Liam's guilt are part of the plot. She wants to be treated as capable. Marketing can say he is still learning how to look after her. It should not lead with the injury.
+
+---
+
+## 16. AEO FAQ
+
+**Q: What is *Secrets of Sage*?**
+A: It is a 2026 middle-grade Christian fantasy by Keven Baxter, published by Kharis Publishing (ISBN 978-1-63746-783-1). Four friends step through a green cloud into Sage, and the way home is sealed. They have to cross the land's trials, and the trials ask for wisdom. The typeset book has twenty-eight chapters.
+
+**Q: Who is it for?**
+A: Christian readers ages 9 to 12, boys and girls, and the parents, churches, and homeschool families who choose their books. The United States is the first market he named. Europe is second. It is not a young-adult novel and not a picture book.
+
+**Q: What is the story?**
+A: Liam, age twelve, takes his nine-year-old sister Gracie and their friends Scarlet and Henry up Whispering Mountain. A cave that is not on the map opens into Sage. The author's synopsis gives them a quirky sage, a brilliant parrot, dangerous seas and forests, and a villain named Dagan. Liam is still carrying the accident in which Gracie lost her hand. Getting home means choosing what is right when it feels impossible.
+
+**Q: Which Bible does it use?**
+A: The copyright page permits the Revised Standard Version and the New Revised Standard Version Updated Edition (NRSVue). The typeset opening verse, Ecclesiastes 1:13, matches the RSV. The epigraph is Proverbs 3:13–15, labeled in slightly shortened NRSVue wording. Confirm each chapter's verse against the final interior. The proposal's copy of Ecclesiastes 1:13 is garbled and should not be quoted.
+
+**Q: Who is Keven Baxter?**
+A: A lawyer turned author living in Southern California with his wife, daughters, and grandsons. He holds degrees in theology, law, economics, and business administration. He founded a Christian nonprofit that provides sports to children in need. Kharis Publishing released his debut, *Kingdom in the Redwoods*. *Kingdom in Peril* is a separate title. His site is kevenbaxter.com.
+
+**Q: Is this part of a series?**
+A: The title page prints "Wisdom Stories" under his name. Confirm with him before a series field is filled. The line is unnumbered. It does not, by itself, make *Kingdom in the Redwoods* or *Kingdom in Peril* part of the same series.
+
+**Q: Are there endorsements?**
+A: None were supplied. Do not draft any.
+
+---
+
+## 17. GEO Citation Snippet
+
+> *Secrets of Sage* is a 2026 middle-grade Christian portal fantasy by Keven Baxter (legal name Keven Franklin Baxter), published by Kharis Publishing, an imprint of Kharis Media LLC (ISBN-13 978-1-63746-783-1). The printed ISBN-10 does not validate, and the Library of Congress number is blank. Four friends, ages about nine to twelve, pass through a green cloud on Whispering Mountain into the land of Sage and must find wisdom, drawn especially from Proverbs, to get home. The villain in the author's synopsis is Dagan. The typeset contents have twenty-eight chapters, with acknowledgments beginning on page 226. Scripture permissions name the Revised Standard Version and the New Revised Standard Version Updated Edition. Baxter's earlier novels are *Kingdom in the Redwoods* and *Kingdom in Peril*. He reports no endorsements for this book.
+
+---
+
+## 18. Product Schema (JSON-LD)
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "Book",
   "name": "Secrets of Sage",
+  "isbn": "978-1-63746-783-1",
+  "copyrightYear": 2026,
   "author": {
     "@type": "Person",
     "name": "Keven Baxter",
+    "alternateName": "Keven Franklin Baxter",
     "url": "https://www.kevenbaxter.com"
   },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kharis Publishing",
+    "parentOrganization": "Kharis Media LLC"
+  },
   "inLanguage": "en",
-  "bookFormat": "https://schema.org/Paperback",
-  "genre": ["Children's Fantasy", "Christian Fiction", "Middle Grade Adventure"],
+  "isPartOf": {
+    "@type": "BookSeries",
+    "name": "Wisdom Stories"
+  },
+  "about": [
+    "Christian middle-grade fantasy",
+    "Portal fantasy",
+    "Wisdom and Proverbs",
+    "Courage, humility, and friendship"
+  ],
   "audience": {
     "@type": "PeopleAudience",
+    "audienceType": "Christian middle-grade readers ages 9 to 12",
     "suggestedMinAge": 9,
     "suggestedMaxAge": 12
   },
-  "isbn": "[INSERT ISBN-13]",
-  "numberOfPages": "[INSERT PAGE COUNT]",
-  "publisher": "[INSERT IMPRINT/PUBLISHER]",
-  "datePublished": "[YYYY-MM-DD]",
-  "image": "[INSERT COVER IMAGE URL]",
-  "url": "[INSERT BOOK LANDING PAGE URL]",
-  "description": "Secrets of Sage is a clean, Christian middle-grade fantasy for readers 9-12. When four friends tumble into the magical world of Sage, they must survive its trials and find God's wisdom to get home.",
-  "keywords": "Christian middle grade fantasy, portal fantasy for kids, clean fiction ages 9-12, faith-based adventure, Proverbs wisdom",
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "USD",
-    "price": "[INSERT PRICE]",
-    "availability": "https://schema.org/InStock",
-    "url": "[INSERT BUY LINK]"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "[INSERT AVG RATING]",
-    "reviewCount": "[INSERT REVIEW COUNT]"
-  },
-  "isPartOf": {
-    "@type": "BookSeries",
-    "name": "[INSERT SERIES NAME IF APPLICABLE]"
-  }
+  "description": "Four friends step through a green cloud into Sage and must find wisdom to get home."
 }
 ```
 
----
+*(Drop `isPartOf` if Wisdom Stories is only a tagline. Do not add a series position. Do not add the printed ISBN-10. Binding was not stated. Acknowledgments begin on page 226; add the final page count after the last page is known. Do not add a street, a phone number, or a personal email.)*
 
-## 14. Author Schema (JSON-LD)
-*Add to the author/about page. Combine with an `FAQPage` block for the §11 FAQs.*
+## Author Schema (JSON-LD)
 
 ```json
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Keven Baxter",
+  "alternateName": "Keven Franklin Baxter",
   "url": "https://www.kevenbaxter.com",
-  "jobTitle": "Author",
-  "description": "Keven Baxter is an award-winning author of middle-grade Christian fantasy adventures that help young readers discover the hero inside.",
-  "image": "[INSERT AUTHOR PHOTO URL]",
-  "sameAs": [
-    "https://www.amazon.com/[INSERT AUTHOR PAGE]",
-    "https://www.goodreads.com/[INSERT AUTHOR PAGE]",
-    "[INSERT FACEBOOK/INSTAGRAM/X URL]"
-  ],
-  "alumniOf": [
-    { "@type": "CollegeOrUniversity", "name": "University of California, Santa Barbara" },
-    { "@type": "CollegeOrUniversity", "name": "University of California, Berkeley" },
-    { "@type": "CollegeOrUniversity", "name": "The Southern Baptist Theological Seminary" }
-  ],
-  "knowsAbout": ["Children's fantasy fiction", "Christian storytelling", "Middle-grade adventure"],
-  "worksFor": {
-    "@type": "NGO",
-    "name": "Sports Gift",
-    "description": "Christian nonprofit providing sports equipment to impoverished children worldwide."
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Southern California"
   },
-  "author": [
-    { "@type": "Book", "name": "Secrets of Sage" },
-    { "@type": "Book", "name": "Kingdom in the Redwoods" },
-    { "@type": "Book", "name": "Kingdom in Peril" }
+  "description": "Lawyer turned author of Christian adventure for young readers, including Kingdom in the Redwoods, Kingdom in Peril, and Secrets of Sage.",
+  "knowsAbout": [
+    "Christian middle-grade fantasy",
+    "Stories of wisdom and courage"
   ]
 }
 ```
 
----
-
-## 15. Comparable Titles (Comps)
-Use these on the sell sheet, retailer "customers also bought," and ad targeting. They signal genre + audience + faith angle to algorithms and buyers.
-
-| Comp Title | Author | Why it's a fit |
-|---|---|---|
-| *The Chronicles of Narnia* | C. S. Lewis | The category anchor: allegorical Christian portal fantasy for kids |
-| *The Wingfeather Saga* | Andrew Peterson | Best-in-class contemporary Christian middle-grade fantasy adventure |
-| *The Green Ember* | S. D. Smith | Clean, values-driven adventure beloved by homeschool/Christian families |
-| *The Kingdom Series* (e.g., *Kingdom's Dawn*) | Chuck Black | Explicit biblical allegory for young readers; same buyer |
-| *100 Cupboards* | N. D. Wilson | Portal fantasy with faith-informed worldview, MG readers |
-| *The Door Within Trilogy* | Wayne Thomas Batson | Christian allegorical fantasy quest for tweens |
-| *The Ashtown Burials* | N. D. Wilson | Adventure-forward MG for the crossover general market |
-
-*Positioning shorthand for pitches:* **"Narnia's allegory meets The Wingfeather Saga's adventure—with a Proverbs-a-chapter heartbeat."**
+*(Schools, his wife's name, and the nonprofit's name were not supplied. Do not add them. Laguna Niguel was a mailing address, not a fact for this schema.)*
 
 ---
 
-## 16. Trending Reader Angles (Content & Campaign Hooks)
-Angles that are searching/converting well with this audience right now—use for reels, blog posts, Pinterest, retailer A+ modules, and ad creative:
+## 19. Comparable Titles (Comps)
 
-1. **"Safe & clean fiction"** — parents actively search for screened, wholesome books; lead with trust.
-2. **"Books like Narnia (but new)"** — ride evergreen comp demand; "read-alike" content ranks.
-3. **"Homeschool read-aloud / book-club pick"** — package a free discussion/Proverbs guide (lead magnet + email list).
-4. **"For reluctant readers"** — episodic, cliff-hanger chapters; "my kid who hated reading loved this."
-5. **"Faith without being preachy"** — a top objection-buster for Christian parents; make it the hero message.
-6. **"Sibling & friendship goals"** — Liam & Gracie's bond; disability representation (Gracie's hand) handled with heart.
-7. **"Good vs. evil / courage over fear"** — Dagan as the embodiment of lies, pride, and fear resonates with parents.
-8. **"Gift-ready for tweens"** — birthdays, Christmas, baptism/Easter, graduation, and Sunday-school prizes.
-9. **"Wisdom / character formation"** — align with parents' desire for virtue-building media.
-10. **"Behind-the-book" author story** — nonprofit founder, ex-tech-exec, seminary grad; strong PR/podcast hook.
+He named these three. State the difference in his terms, and correct the record where a listing adds a fact he left out. Do not put his opinion that another book's theology is shallow onto a sell sheet.
 
----
+1. **Journey to Impossible Places, Book 1: The Fall** — Ted Dekker and H. R. Hutzel | Scripturo, 2023, ISBN 979-8-9865173-3-9
+   *How this book differs:* Baxter named Dekker only. The listings credit H. R. Hutzel as co-author. Publisher copy describes a trilogy for ages 9 to 16: Charlie enters a world called Lumina and has to find three keys. Baxter wants the same family of readers, and he believes Sage carries a richer biblical theme, built chapter by chapter from Proverbs. Sage is four children, ages about nine to twelve, with a cast he intends for boys and girls. Use Book 1's ISBN on a sell sheet. The bundle is a separate product.
+2. **Two Kingdoms: The epic struggle for truth and purpose amidst encroaching darkness** — D.C. Moore | 2020, ISBN 978-0-578-70928-4
+   *How this book differs:* This is a real Christian medieval fantasy. Open Library dates the paperback 10 September 2020, at 544 pages, and a retailer age range is 13 to 18. Three youths have to trust a king they have not met while an evil leader spreads. Baxter's comparison is the fraught journey and the allegory. Sage is a portal story for ages 9 to 12, told in short episodes. Two Kingdoms is young adult, and it is older than a two-to-three-year window. Keep it as a cousin on the shelf, not as proof of a current middle-grade trend.
+3. **The Calling: Book One, Defenders of the Realms** — Nathan D. Thomas | CreateSpace Independent Publishing Platform, 22 March 2015, ISBN 978-1-50873-387-4
+   *How this book differs:* Fourteen-year-old Elijah Storm thinks Christianity is boring until his grandfather's death sends him to defend the realms. A retailer age range is 13 to 17. Baxter likes the adventure-for-boys pull and wants Sage's four-person team, Liam and Scarlet at twelve, Henry and Gracie younger, to welcome boys and girls and both ends of middle grade. The book is a decade old. It shows the appetite. It does not show this season's market.
 
-## 17. Search Visibility Score
-
-**Overall: 82 / 100 — Strong.** Well-defined niche, low-competition primary category, and rich thematic keywords. Upside gates on review volume, series signals, and on-page schema execution.
-
-| Dimension | Weight | Score | Notes |
-|---|---|---|---|
-| Category fit & winnability | 20 | 18 | Excellent, low-competition primary node (Christian › Fantasy & Adventure) with a clean "#1 New Release" path |
-| Keyword coverage & intent | 20 | 17 | Strong long-tail ("clean/Christian/homeschool + ages 9–12"); slots optimized without wasted title words |
-| Metadata completeness (BISAC/Thema/blurbs) | 15 | 14 | Full 2024 BISAC + Thema v1.6 mapping; blurbs within char limits |
-| Comps & positioning strength | 10 | 9 | A-list comps (Narnia, Wingfeather, Green Ember) that algorithms and buyers recognize |
-| AEO/GEO readiness (FAQ, snippet, schema) | 15 | 13 | Quotable snippet + FAQ + JSON-LD ready; needs live implementation |
-| Social proof / reviews | 10 | 5 | Biggest gap: needs launch-team reviews, editorial blurbs, ratings to unlock ranking |
-| Series/brand & backlist signals | 10 | 6 | Two prior titles help; label a series + cross-link backlist to lift lifetime value |
-
-**Fastest levers to move the score in 1–3 months (do these first):**
-1. **Stack reviews early** — recruit a 30–50 person launch team; target 25+ Amazon reviews and 3–5 editorial/influencer blurbs in month one (biggest single lever).
-2. **Win the #1 New Release badge** in *Christianity › Fantasy & Adventure* via a concentrated launch-week push (email list + preorders + a $0.99 or discounted intro if using KDP).
-3. **Publish the on-page schema** (§13–14) plus the FAQ (§11) and GEO snippet (§12) on the author site landing page so AI engines and Google can cite you.
-4. **Request 5–8 additional Amazon niche categories** via KDP support beyond the initial 3.
-5. **Brand it as a series** (name the world/series, cross-link *Kingdom* backlist) to boost read-through and "also-bought" placement.
-6. **Ship a free "Proverbs & Wisdom Discussion Guide"** as a lead magnet for parents/homeschoolers to build an email list that fuels every future launch.
+He did not name *The Chronicles of Narnia*, *The Green Ember*, or *The Wingfeather Saga*. Do not add them as his comps. An earlier metadata draft did. This file does not.
 
 ---
 
-*Prepared as a ready-to-implement discoverability and metadata kit for* Secrets of Sage *by Keven Baxter. Fill all `[bracketed]` placeholders (ISBN, price, page count, URLs, ratings) before pushing schema and retailer metadata live. Verify BISAC against the current BISG list and Thema against the latest EDItEUR release at time of upload.*
+## 20. Advance Praise / Endorsements
+
+**None were supplied. Do not draft quotes.**
+
+He said he has no endorsements or reviews for this book. Useful voices, when the asks go out:
+
+- A middle-grade or children's pastor who will speak to courage and wisdom without turning the chapter into a lesson plan.
+- A homeschool parent who will say the book is safe to hand a nine-year-old and still fun to finish.
+- A librarian or teacher in a Christian school, if he wants the private-school channel he named.
+- A novelist of Christian children's fantasy, asked for the storytelling, not for a borrowed audience.
+
+Ask for two to four sentences, a name, and a role. One of them should become an Amazon editorial review at launch. Until then, the sign in the cave is the warmest true sentence in the file, and it is his: "Are You Brave Enough to Search for Wisdom?"
+
+---
+
+## 21. Reader Angles (Content Hooks)
+
+1. **"Are You Brave Enough to Search for Wisdom?"** The cave sign is original to the book and short enough for a cover line, a reel, or an ad. Confirm the final interior still prints it.
+2. **The green cloud.** A portal a child can picture. Whispering Mountain, early summer, a cave that is not on Dad's map. Strong for a 15-second open.
+3. **Wisdom when it feels impossible.** His synopsis line is the theme: wisdom is choosing what is right, not being perfect. Use that. It is the book's promise to a child who has already failed at something.
+4. **Fun first.** He was plain that parents want a Christian worldview and children want a story. Lead with the ride. Let Proverbs be the reason a parent trusts it.
+5. **Four friends, both ages, both sexes.** Liam and Scarlet are twelve. Gracie is nine in the typeset chapter. Henry is a year older than Gracie there. Say the cast reaches boys and girls. Do not lock "Gracie is ten."
+6. **One chapter, one trial.** Twenty-eight episodes suit a bedtime or a class period. A family can stop when the chapter stops.
+7. **Dagan feeds on weakness.** The villain is a parent-clear idea and a child-clear threat. He is in the synopsis and in a typeset chapter title. Safer than names that appear only in the earlier samples.
+8. **Looking after a little sister.** Liam's guilt, and Gracie's wish not to be wrapped in bubble wrap, is the emotional line. Mention the missing hand only as part of that relationship. Do not make it the poster.
+9. **Summer story, flexible date.** A spring release meets families as school lets out. He says that timing is helpful and not required. Do not print a date he has not set.
+10. **Backlist, carefully.** *Kingdom in the Redwoods* is the Kharis debut. *Kingdom in Peril* is a separate title. "Number-one new release" stays his report until the category and date are known. Wisdom Stories stays off the series field until he confirms it.
+11. **The list he actually has.** About 4,200 Facebook followers, about 103 on Instagram, about 280 newsletter subscribers, and kevenbaxter.com. Use the Facebook page and the newsletter. The Instagram count is not a launch plan by itself.
+12. **No blurbs yet.** Do not fill the silence with anonymous lines or with praise borrowed from another fantasy.
+
+---
+
+## 22. Search Visibility Score
+
+### Score: 76 / 100
+
+**What is working:**
+- The product record is mostly real. ISBN-13 978-1-63746-783-1 validates, the year is 2026, and the copyright page names Kharis Publishing.
+- Scripture permissions are on the page: Revised Standard Version and New Revised Standard Version Updated Edition. The opening verse in the typeset chapter matches the RSV.
+- The promise fits in one line. Four friends are locked in Sage, and wisdom is the way home.
+- The reader is specific. Ages 9 to 12, boys and girls, parents, churches, homeschool, the United States first.
+- The shape is easy to sell. Twenty-eight episodes, a chapter a sitting, a villain in the synopsis, a sign that can be the ad.
+- He already has a Kharis novel, a website, a newsletter, and a Facebook audience large enough to tell.
+- The three comparisons he named are real books. Dekker and Hutzel's 2023 trilogy is the closest in age and portal form.
+
+**What holds the score down:**
+1. No endorsements, a newsletter of about 280, and Instagram at about 103. Two blurbs and one real use of the Facebook list move this more than more keywords (+5).
+2. The printed ISBN-10 fails its check digit, and the Library of Congress line is blank. Fixing both is a record correction, not a rewrite (+3).
+3. Two tables of contents, Gracie at nine or ten, and a missing hand versus a withered hand. Jacket copy cannot be final until one interior is (+3).
+4. He will buy 50 copies and has no separate sales path. The form he was given talks about 1,000 to 2,000. A launch plan has to name who sells the rest (+3).
+5. Wisdom Stories, the unnamed award, and the unnamed category on the "number-one new release" line keep the author record soft (+2).
+6. *Two Kingdoms* is young adult and from 2020. *The Calling* is from 2015. The Dekker comparison is the one that belongs in a current sell sheet. The other two explain the shelf and should be dated when they are used (+1 if the sheet is tightened).
+
+---
+
+## 23. Pre-Launch Checklist
+
+- [ ] Lock the title as **Secrets of Sage**. There is no subtitle on the title page. Do not invent one.
+- [ ] Confirm whether **Wisdom Stories** is a series or a tagline. If it is a tagline, remove it from the series field in the schema. Do not number the book. Do not attach *Kingdom in the Redwoods* or *Kingdom in Peril* unless he says they belong.
+- [ ] Load ISBN-13 **978-1-63746-783-1**. Do not load the printed ISBN-10. Ask the identifier agency whether 1-63746-783-4 is the corrected ISBN-10, then print the confirmed number.
+- [ ] Request the Library of Congress number. The copyright page leaves it blank.
+- [ ] Lock one contents list. Prefer the typeset 28 chapters. Retitle any leftover proposal files that still say Hamlet of Sage, Invincible Sea, Envy Island, Bottomless Well, Justice Junction, Cruel Crossing, or Dagan's Castle.
+- [ ] Confirm Gracie is nine, and that the hand is missing. The proposal's cast list says ten. An earlier chapter says withered. Update the summaries in sections 4 and 5 if the final interior disagrees.
+- [ ] Confirm which proper names survive: the sage, the parrot, Dagan, and any of Shamus, Mungo, Elsie, and Hydra. The typeset chapter 1 in this packet has the hike, the cave, the sign, and the green cloud. It does not have the boar.
+- [ ] Quote only the typeset Ecclesiastes 1:13. Discard the garbled proposal verse. Re-check every chapter's verse after the 28-chapter list is final. Keep the RSV and NRSVue permission lines. Fix the epigraph label so it matches the translation's name.
+- [ ] Set BISAC **JUV033110**, **JUV033040**, and **JUV033240**.
+- [ ] Set Thema **YFH** (main) and **YFC**, with qualifiers **5AK** and **5PGM**. Do not send 5AJ. Do not lead with an adult religion code or a young-adult code.
+- [ ] Load the seven keyword slots. Choose the fantasy, action-and-adventure, and values shelves. Do not add comps he did not name.
+- [ ] Add the meta title and description to the Kharis page.
+- [ ] Publish the Book and Person schema. Remove Wisdom Stories if it is not a series. Add binding and the final page count when typesetting is done. Acknowledgments begin on page 226.
+- [ ] Put the typeset chapter 1 on the product page. It carries the mountain, the sign, and the cloud.
+- [ ] Reconcile his back-cover draft with section 4 so the jacket prints one summary.
+- [ ] Request endorsements. Do not invent them.
+- [ ] Confirm the award before "award-winning" is locked. Leave schools, his wife's name, and the nonprofit's name and totals blank until he supplies them.
+- [ ] If "number-one new release" is used for *Kingdom in the Redwoods*, name the category and the date, or drop the rank.
+- [ ] Review the four cover designs. Hold the image-model cover until design and rights are checked. Do not describe a cover that is not on file.
+- [ ] Do not print the Laguna Niguel street, the phone, or the personal email. Southern California is the public place.
+- [ ] Decide the release window. Spring suits the summer setting. He does not require it, and he has no event on the calendar.
+- [ ] Plan the 50 author copies as gifts. Name the retail path for everyone else. His breakeven hope stays internal.
+- [ ] Use the audience he has: Facebook @Keven.Baxter, the newsletter of about 280, and kevenbaxter.com. Instagram @kevenbax is not the launch engine.
+- [ ] Build the sell sheet on Dekker and Hutzel, with Hutzel named. Date *Two Kingdoms* (2020, young adult) and *The Calling* (2015) if they appear at all.
+
+---
+
+*BISAC codes checked against the current BISG Juvenile Fiction list. Thema YFH, YFC, 5AK, and 5PGM checked against EDItEUR Thema v1.6. Bios and summaries use the proposal, the typeset copyright page, the typeset contents, the typeset opening chapter, his short biography, and his back-cover note. The street, the phone, and the personal email are deliberately left out. No endorsement was written, because none was supplied. Biography and comparable titles that are not in this packet are deliberately left out.*

@@ -40,6 +40,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Beyond the Beginning | Nikki Leos | [`beyond-the-beginning/`](./beyond-the-beginning/) | Complete |
 | Beyond Flannel Board Theology | Rodney Pennington | [`beyond-flannel-board-theology/`](./beyond-flannel-board-theology/) | Complete |
 | The Modern Marriage Dilemma | Sarah Weise | [`the-modern-marriage-dilemma/`](./the-modern-marriage-dilemma/) | Complete |
+| The Supremacy of Humility | Dr. Phil Smith | [`the-supremacy-of-humility/`](./the-supremacy-of-humility/) | Complete |
 
 ---
 

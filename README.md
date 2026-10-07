@@ -43,6 +43,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | The Supremacy of Humility | Dr. Phil Smith | [`the-supremacy-of-humility/`](./the-supremacy-of-humility/) | Complete |
 | The Far Country | J Allen Jernigan | [`the-far-country/`](./the-far-country/) | Complete |
 | Ghosted | Edet B. Effiom | [`ghosted/`](./ghosted/) | Complete |
+| Shepherd Leadership | Traye Hogge | [`shepherd-leadership/`](./shepherd-leadership/) | Complete |
 
 ---
 

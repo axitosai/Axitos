@@ -18,7 +18,7 @@
 > - **Author's name.** Only the initials M.E. Reach were supplied. Do not expand them. He is referred to as "he." A legal name is still needed for the copyright line and for Ingram.
 > - **Bible translation.** The Proverbs wording is close to the New King James Version but not identical (the manuscript has "naive ones" and "naivete," where the NKJV has "simple ones" and "simplicity"). Name the translation and add the permission line. Do not call the epigraph Scripture. It is a saying, not a verse.
 > - **What was not supplied:** endorsements, a church or employer, the names of the five states and two countries, which decoration the veteran service refers to, a word count, and a page count. The bios use only the profile and the sample days.
-> - **Series claim.** Nothing in the pages says other 31 Choices volumes exist. Treat Listening as Book 1 of a series that can grow, not as one volume among books already published.
+> - **Series claim.** A companion volume, *31 Choices: Speaking*, was supplied separately. Neither manuscript numbers the books. The recommended order is Listening, then Speaking: this book’s epigraph is “listen twice as much as we speak,” and the days move from hearing wisdom to answering with it. Do not print “Book 1” until that order is confirmed.
 
 ---
 
@@ -117,16 +117,17 @@ One month. One choice a day. Listen twice as much as you speak.
 
 ## 8. IngramSpark Categories (BISAC — up to 3)
 
-1. **REL022000** — RELIGION / Devotional *(primary)*
+1. **REL012020** — RELIGION / Christian Living / Devotional *(primary)*
 2. **REL006740** — RELIGION / Biblical Studies / Old Testament / Poetry & Wisdom Literature *(Proverbs)*
 3. **REL012120** — RELIGION / Christian Living / Spiritual Growth
 
 **If a slot must change:**
 
+- **REL022000** — RELIGION / Devotional *(the general heading; use it only if a feed rejects the Christian Living devotional code)*
 - **REL042000** — RELIGION / Meditations
 - **REL006770** — RELIGION / Biblical Commentary / Old Testament / Poetry & Wisdom Literature *(only if the house decides the book is commentary rather than devotion; the daily form argues against it)*
 
-*(REL022000, REL006740, REL012120, and REL042000 are on the current BISG RELIGION list. REL006740 is the wisdom-literature studies code. REL006080 is general biblical criticism and is the wrong slot.)*
+*(Checked against the current BISG RELIGION list. REL012020 is the Christian-specific devotional code and the better primary. REL022000 is devotion in general. REL006740 is wisdom literature, not commentary. REL006080 is general biblical criticism and is the wrong slot.)*
 
 ---
 
@@ -156,7 +157,7 @@ QRVJ3 is the devotional code. QRMP names the Christian practice. QRVC belongs on
 
 When KDP asks for two codes, use:
 
-1. **REL022000** — RELIGION / Devotional
+1. **REL012020** — RELIGION / Christian Living / Devotional
 2. **REL006740** — RELIGION / Biblical Studies / Old Testament / Poetry & Wisdom Literature
 
 The keyword slots then carry "listening," "31-day," and "Proverbs devotional," which the dropdowns will not.
@@ -175,7 +176,7 @@ The keyword slots then carry "listening," "31-day," and "Proverbs devotional," w
 6. `bible reading for busy people` *(29)*
 7. `proverbs for everyday faith` *(27)*
 
-*(The title already indexes "listening" and "choices." These slots reach Proverbs, the 31-day format, and the better-listener search.)*
+*(The title already indexes "listening" and "choices." These slots reach Proverbs, the 31-day format, and the better-listener search. Once Speaking is listed, one slot can trade for `companion to 31 choices speaking`.)*
 
 ### 12b. High-intent keyword bank
 
@@ -228,7 +229,7 @@ A: Anyone who suspects they listen worse than they think, especially busy adults
 A: The readings supplied are from Proverbs, including 1:20–22, 2:1–2, and 15:14. The translation is not named on the manuscript and should be confirmed before publication. The wording is close to the New King James Version but not identical.
 
 **Q: Is it part of a series?**
-A: The title is set up as a series, *31 Choices*, with *Listening* as this book. No other volumes were included with the manuscript, so it should be sold as the first.
+A: Yes. It belongs to *31 Choices*. A companion, *31 Choices: Speaking*, was supplied separately. Neither manuscript numbers the volumes. The recommended order is Listening, then Speaking. Do not print a book number until that order is confirmed.
 
 **Q: How long is each day?**
 A: A few verses, a short reflection, and one practice. Day 1 asks the reader to listen for wisdom already speaking. Day 2 asks what they treasure. Day 3 asks them to seek God with their whole attention, not wander until something happens.
@@ -277,7 +278,7 @@ A: A writer born and raised on the Mississippi Gulf Coast. He is a decorated U.S
 }
 ```
 
-*(The publisher block assumes the Kharis imprint used for the rest of this series. Add the ISBN and the copyright year when they exist. Drop the series position if Listening is not confirmed as Book 1.)*
+*(The publisher block assumes the Kharis imprint. Add the ISBN and the copyright year when they exist. Series position 1 is the recommended order, with Speaking as the companion. Drop the position if that order is not confirmed.)*
 
 ## Author Schema (JSON-LD)
 
@@ -336,7 +337,7 @@ Ask for two to four sentences, a name, and a role. One of them should become an 
 5. **Hide-and-seek as discipleship.** Day 3 is concrete enough to tell in under a minute.
 6. **"Too busy" is the fool's excuse.** Sharp, and fair, because he offers the exit in the same paragraph.
 7. **A father of five who writes songs to annoy them.** The bio is more memorable than a list of credentials. Use it.
-8. **A series people can join.** If a second *31 Choices* volume is real, say so. If it is only a hope, sell this book as a complete month and mention the series lightly.
+8. **A pair, not a teaser.** *31 Choices: Speaking* is the companion. Sell this book as a complete month, and name Speaking once the order is confirmed. Do not imply a long series that has not been supplied.
 
 ---
 
@@ -365,12 +366,12 @@ Ask for two to four sentences, a name, and a role. One of them should become an 
 - [ ] Add a copyright page: Kharis imprint, copyright year, author legal name, ISBN, and the Bible permission line.
 - [ ] Assign the ISBN-13 and ISBN-10. Add an LCCN if one will be filed.
 - [ ] Lock the retail title as **31 Choices: Listening**, series **31 Choices**, tagline **Choose to Listen**.
-- [ ] Confirm this is Book 1, and whether any other volume is far enough along to mention.
+- [ ] Confirm series order. Recommended: Listening, then *31 Choices: Speaking*. Do not print a book number until that is locked.
 - [ ] Get the author's legal name. Keep M.E. Reach as the byline unless he wants it expanded.
 - [ ] Name the Bible translation, reconcile the "naive ones / naivete" wording with that text, and clear permissions. Do not present the two-ears epigraph as Scripture.
 - [ ] Confirm whether "decorated" should stay unqualified, or whether he wants a specific award named. Do not add one.
 - [ ] Insert the page count after typesetting. Thirty-one short days plus front matter is the whole book.
-- [ ] Set BISAC **REL022000**, **REL006740**, and **REL012120**.
+- [ ] Set BISAC **REL012020**, **REL006740**, and **REL012120**.
 - [ ] Set Thema **QRVJ3**, **QRMP**, and **QRVC**, qualifier **5PGM**.
 - [ ] Load the seven keyword slots and choose Devotionals, Poetry & Wisdom, and Spiritual Growth.
 - [ ] Add the meta title and description to the Kharis page.

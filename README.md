@@ -51,6 +51,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Remember Who You Are | Lidia Meglei | [`remember-who-you-are/`](./remember-who-you-are/) | Complete |
 | Wonder, Wonder, Precious Child | Dan Yuen | [`wonder-wonder-precious-child/`](./wonder-wonder-precious-child/) | Complete |
 | Complete Through Chaos | Dontay Elliott | [`complete-through-chaos/`](./complete-through-chaos/) | Complete |
+| Becoming the Man God Is Building | Wedzer Chery | [`becoming-the-man-god-is-building/`](./becoming-the-man-god-is-building/) | Complete |
 
 ---
 

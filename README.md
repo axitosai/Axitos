@@ -46,6 +46,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Shepherd Leadership | Traye Hogge | [`shepherd-leadership/`](./shepherd-leadership/) | Complete |
 | Rise On Purpose | Pastor Patrick McKenzie | [`rise-on-purpose/`](./rise-on-purpose/) | Complete |
 | 31 Choices: Listening | M.E. Reach | [`31-choices-listening/`](./31-choices-listening/) | Complete |
+| 31 Choices: Speaking | M.E. Reach | [`31-choices-speaking/`](./31-choices-speaking/) | Complete |
 
 ---
 

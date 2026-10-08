@@ -72,6 +72,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Soul Shift | Lisa MacNeill | [`soul-shift/`](./soul-shift/) | Complete |
 | Morning Blessings & Prayers for Everyday Life | Andrae Paris | [`morning-blessings-prayers/`](./morning-blessings-prayers/) | Complete |
 | Enough Is Enough | Drew Alan Hall | [`enough-is-enough/`](./enough-is-enough/) | Complete |
+| Peace Beyond Fear | Tyrone Negroni | [`peace-beyond-fear/`](./peace-beyond-fear/) | Complete |
 
 ---
 

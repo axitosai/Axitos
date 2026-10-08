@@ -75,6 +75,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Peace Beyond Fear | Tyrone Negroni | [`peace-beyond-fear/`](./peace-beyond-fear/) | Complete |
 | The Call Still Echoes | Jon Barsness | [`the-call-still-echoes/`](./the-call-still-echoes/) | Complete |
 | The Secret of the Lake Erie Monster | Jesh St. John | [`lake-erie-monster/`](./lake-erie-monster/) | Complete |
+| Publish for Profit in the AI Era | E. U. Francis | [`publish-for-profit-ai-era/`](./publish-for-profit-ai-era/) | Complete |
 
 ---
 

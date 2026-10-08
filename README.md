@@ -67,6 +67,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Marks of My Fathers | Barry Ng | [`marks-of-my-fathers/`](./marks-of-my-fathers/) | Complete |
 | City Woman, Country Woman | Kathy Jean Wolfe | [`city-woman-country-woman/`](./city-woman-country-woman/) | Complete |
 | Freedom Forever | Roger A. Rekate | [`freedom-forever/`](./freedom-forever/) | Complete |
+| 4¾ Years At Hogwarts | Shiloh Eden Drake | [`four-years-at-hogwarts/`](./four-years-at-hogwarts/) | Complete |
 
 ---
 

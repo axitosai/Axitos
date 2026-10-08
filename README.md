@@ -70,6 +70,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | 4¾ Years At Hogwarts | Shiloh Eden Drake | [`four-years-at-hogwarts/`](./four-years-at-hogwarts/) | Complete |
 | The Gap | Courtney Willie | [`the-gap/`](./the-gap/) | Complete |
 | Soul Shift | Lisa MacNeill | [`soul-shift/`](./soul-shift/) | Complete |
+| Morning Blessings & Prayers for Everyday Life | Andrae Paris | [`morning-blessings-prayers/`](./morning-blessings-prayers/) | Complete |
 
 ---
 

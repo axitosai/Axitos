@@ -64,6 +64,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Rewiring the Mind for the Melancholy Soul | Nichole Fogleman | [`rewiring-the-mind/`](./rewiring-the-mind/) | Complete |
 | The Loud, Messy, Beautiful Life | Rachel Ann Scott | [`loud-messy-beautiful-life/`](./loud-messy-beautiful-life/) | Complete |
 | The Evolving Christian with Questions | Robert Francis Wolff | [`evolving-christian-questions/`](./evolving-christian-questions/) | Complete |
+| Marks of My Fathers | Barry Ng | [`marks-of-my-fathers/`](./marks-of-my-fathers/) | Complete |
 
 ---
 

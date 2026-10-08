@@ -65,6 +65,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | The Loud, Messy, Beautiful Life | Rachel Ann Scott | [`loud-messy-beautiful-life/`](./loud-messy-beautiful-life/) | Complete |
 | The Evolving Christian with Questions | Robert Francis Wolff | [`evolving-christian-questions/`](./evolving-christian-questions/) | Complete |
 | Marks of My Fathers | Barry Ng | [`marks-of-my-fathers/`](./marks-of-my-fathers/) | Complete |
+| City Woman, Country Woman | Kathy Jean Wolfe | [`city-woman-country-woman/`](./city-woman-country-woman/) | Complete |
 
 ---
 

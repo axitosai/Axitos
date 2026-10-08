@@ -57,6 +57,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Mothering God's Purposes | Nickson Mwaino Mwanake | [`mothering-gods-purposes/`](./mothering-gods-purposes/) | Complete |
 | Week 1 of Year 1 Anno Mundi | Gamaliel Cohen | [`week-1-of-year-1-anno-mundi/`](./week-1-of-year-1-anno-mundi/) | Complete |
 | Son of David, Son of Honor | John E. Markey, Jr. | [`son-of-david-son-of-honor/`](./son-of-david-son-of-honor/) | Complete |
+| The Beautiful Fallen Oak | Tracee Plank Leaphart | [`beautiful-fallen-oak/`](./beautiful-fallen-oak/) | Complete |
 
 ---
 

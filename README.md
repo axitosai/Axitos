@@ -61,6 +61,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | RESTORED: The Journey to Redemption | Richard P. Wilson II | [`restored-the-journey-to-redemption/`](./restored-the-journey-to-redemption/) | Complete |
 | Participant Workbook: The Journey to Redemption | Richard P. Wilson II | [`restored-participant-workbook/`](./restored-participant-workbook/) | Complete |
 | The Adventures of Tiny Bird and Friends | Susan Shaver | [`adventures-of-tiny-bird/`](./adventures-of-tiny-bird/) | Complete |
+| Rewiring the Mind for the Melancholy Soul | Nichole Fogleman | [`rewiring-the-mind/`](./rewiring-the-mind/) | Complete |
 
 ---
 

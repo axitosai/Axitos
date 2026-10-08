@@ -1,1 +1,130 @@
-# Axitos
+# Axitos — Book Publishing & Metadata Kits
+
+A working repository of **publisher-grade metadata and discoverability kits**, one per book title. Each kit is a ready-to-implement package for launching a book across **Amazon (KDP)**, **IngramSpark**, and the open web (**SEO / AEO / GEO**), plus assets for the marketing team — all built to support a high-conversion sales pitch within **1–3 months** of launch.
+
+---
+
+## Why this repo exists
+
+Publishing a book well is a metadata problem as much as a writing one. Retailers (Amazon, Ingram), search engines (Google), answer engines (AI assistants), and generative engines (ChatGPT, Gemini, Perplexity) each need the *right* words in the *right* fields to make a book discoverable and to convert browsers into buyers.
+
+This repo standardizes that work: for every title, we produce the **same complete set of deliverables** so nothing is missed and every book launches with professional, consistent, search-optimized metadata.
+
+---
+
+## How it's organized
+
+```
+/
+├── README.md                         ← you are here (global guide + standards)
+├── TEMPLATE.md                       ← blank checklist of deliverables (copy for each new book)
+└── <book-title-slug>/                ← one folder per title
+    └── <Book-Title>-Publishing-Kit.md
+```
+
+- **One folder per title**, named with a lowercase slug (e.g. `secrets-of-sage/`).
+- Inside, the primary deliverable is `<Book-Title>-Publishing-Kit.md`.
+- Supporting assets for that title (sell sheets, cover copy variants, ad drafts, discussion guides, etc.) can live alongside it in the same folder.
+
+### Current titles
+| Title | Author | Folder | Status |
+|---|---|---|---|
+| Secrets of Sage | Keven Baxter | [`secrets-of-sage/`](./secrets-of-sage/) | Complete |
+| All Powers of God Almighty | Pastor Dr. Gabriel Ayorinde | [`all-powers-of-god-almighty/`](./all-powers-of-god-almighty/) | Complete |
+| Light in the Darkness | Bill Martin (William L. Martin) | [`light-in-the-darkness/`](./light-in-the-darkness/) | Complete |
+| When It Takes More Faith to Come Back | Brian M. Virtue, Ph.D. | [`when-it-takes-more-faith-to-come-back/`](./when-it-takes-more-faith-to-come-back/) | Complete |
+| The Girl I Had to Go Back and Save | Kiesha Walker | [`the-girl-i-had-to-go-back-and-save/`](./the-girl-i-had-to-go-back-and-save/) | Complete |
+| For Such a Time as Now | Daryl Boyer | [`for-such-a-time-as-now/`](./for-such-a-time-as-now/) | Complete |
+| Unleashing Holy Imagination | Duane H. Smith | [`unleashing-holy-imagination/`](./unleashing-holy-imagination/) | Complete |
+| Workers in the Kingdom | Gary Holloway | [`workers-in-the-kingdom/`](./workers-in-the-kingdom/) | Complete |
+| Beyond the Beginning | Nikki Leos | [`beyond-the-beginning/`](./beyond-the-beginning/) | Complete |
+| Beyond Flannel Board Theology | Rodney Pennington | [`beyond-flannel-board-theology/`](./beyond-flannel-board-theology/) | Complete |
+| The Modern Marriage Dilemma | Sarah Weise | [`the-modern-marriage-dilemma/`](./the-modern-marriage-dilemma/) | Complete |
+| The Supremacy of Humility | Dr. Phil Smith | [`the-supremacy-of-humility/`](./the-supremacy-of-humility/) | Complete |
+| The Far Country | J Allen Jernigan | [`the-far-country/`](./the-far-country/) | Complete |
+| Ghosted | Edet B. Effiom | [`ghosted/`](./ghosted/) | Complete |
+| Shepherd Leadership | Traye Hogge | [`shepherd-leadership/`](./shepherd-leadership/) | Complete |
+| Rise On Purpose | Pastor Patrick McKenzie | [`rise-on-purpose/`](./rise-on-purpose/) | Complete |
+| 31 Choices: Listening | M.E. Reach | [`31-choices-listening/`](./31-choices-listening/) | Complete |
+| 31 Choices: Speaking | M.E. Reach | [`31-choices-speaking/`](./31-choices-speaking/) | Complete |
+| The A-B-C of Prayer | Tommy Mthembu | [`the-abc-of-prayer/`](./the-abc-of-prayer/) | Complete |
+| Remember Who You Are | Lidia Meglei | [`remember-who-you-are/`](./remember-who-you-are/) | Complete |
+| Wonder, Wonder, Precious Child | Dan Yuen | [`wonder-wonder-precious-child/`](./wonder-wonder-precious-child/) | Complete |
+| Complete Through Chaos | Dontay Elliott | [`complete-through-chaos/`](./complete-through-chaos/) | Complete |
+| Becoming the Man God Is Building | Wedzer Chery | [`becoming-the-man-god-is-building/`](./becoming-the-man-god-is-building/) | Complete |
+| Though Devils all the Castle Should Fill | Philip H. Young | [`though-devils-all-the-castle/`](./though-devils-all-the-castle/) | Complete |
+| Dear Sisters | Elizabeth Suzanne Bohman and Leanna Grace Bohman | [`dear-sisters/`](./dear-sisters/) | Complete |
+| Mothering God's Purposes | Nickson Mwaino Mwanake | [`mothering-gods-purposes/`](./mothering-gods-purposes/) | Complete |
+| Week 1 of Year 1 Anno Mundi | Gamaliel Cohen | [`week-1-of-year-1-anno-mundi/`](./week-1-of-year-1-anno-mundi/) | Complete |
+| Son of David, Son of Honor | John E. Markey, Jr. | [`son-of-david-son-of-honor/`](./son-of-david-son-of-honor/) | Complete |
+| The Beautiful Fallen Oak | Tracee Plank Leaphart | [`beautiful-fallen-oak/`](./beautiful-fallen-oak/) | Complete |
+| RESTORED: The Journey to Redemption | Richard P. Wilson II | [`restored-the-journey-to-redemption/`](./restored-the-journey-to-redemption/) | Complete |
+| Participant Workbook: The Journey to Redemption | Richard P. Wilson II | [`restored-participant-workbook/`](./restored-participant-workbook/) | Complete |
+| The Adventures of Tiny Bird and Friends | Susan Shaver | [`adventures-of-tiny-bird/`](./adventures-of-tiny-bird/) | Complete |
+| Rewiring the Mind for the Melancholy Soul | Nichole Fogleman | [`rewiring-the-mind/`](./rewiring-the-mind/) | Complete |
+| The Loud, Messy, Beautiful Life | Rachel Ann Scott | [`loud-messy-beautiful-life/`](./loud-messy-beautiful-life/) | Complete |
+| The Evolving Christian with Questions | Robert Francis Wolff | [`evolving-christian-questions/`](./evolving-christian-questions/) | Complete |
+| Marks of My Fathers | Barry Ng | [`marks-of-my-fathers/`](./marks-of-my-fathers/) | Complete |
+| City Woman, Country Woman | Kathy Jean Wolfe | [`city-woman-country-woman/`](./city-woman-country-woman/) | Complete |
+| Freedom Forever | Roger A. Rekate | [`freedom-forever/`](./freedom-forever/) | Complete |
+| 4¾ Years At Hogwarts | Shiloh Eden Drake | [`four-years-at-hogwarts/`](./four-years-at-hogwarts/) | Complete |
+| The Gap | Courtney Willie | [`the-gap/`](./the-gap/) | Complete |
+| Soul Shift | Lisa MacNeill | [`soul-shift/`](./soul-shift/) | Complete |
+| Morning Blessings & Prayers for Everyday Life | Andrae Paris | [`morning-blessings-prayers/`](./morning-blessings-prayers/) | Complete |
+| Enough Is Enough | Drew Alan Hall | [`enough-is-enough/`](./enough-is-enough/) | Complete |
+| Peace Beyond Fear | Tyrone Negroni | [`peace-beyond-fear/`](./peace-beyond-fear/) | Complete |
+| The Call Still Echoes | Jon Barsness | [`the-call-still-echoes/`](./the-call-still-echoes/) | Complete |
+| The Secret of the Lake Erie Monster | Jesh St. John | [`lake-erie-monster/`](./lake-erie-monster/) | Complete |
+| Publish for Profit in the AI Era | E. U. Francis | [`publish-for-profit-ai-era/`](./publish-for-profit-ai-era/) | Complete |
+
+---
+
+## What every kit includes (the standard deliverables)
+
+Each book's kit delivers, in this exact order:
+
+1. **70-Word Author Bio** — for the back cover
+2. **150-Word Author Bio** — for Amazon & IngramSpark
+3. **500-Word Author Bio** — for marketing team use
+4. **120-Word Book Summary** — for the back cover
+5. **350-Word Book Summary** — for Amazon & IngramSpark
+6. **Book Genre & Sub-Genre**
+7. **Category Search** — Amazon browse placements (print + Kindle)
+8. **IngramSpark Categories**
+9. **Regional Subject** *(Ingram)*
+10. **Thema Qualifiers** *(Ingram)*
+11. **Thema Subjects** *(Ingram)*
+12. **Amazon BISAC Categories**
+13. **Keywords Search** — for Ingram and Amazon
+14. **SEO / AEO / GEO Meta Titles** — ≤60 chars (SEO) and ≤90 chars (AEO/GEO)
+15. **SEO / AEO / GEO Meta Descriptions** — ≤160 chars (SEO) and ≤200 chars (AEO/GEO)
+16. **Target Audience & Reading Level**
+
+**Marketing extras** (added for the marketing team's use):
+
+17. **AEO FAQ** — answer-engine-optimized Q&A block
+18. **GEO Citation Snippet** — a quotable, fact-dense paragraph for generative engines
+19. **Product Schema** — schema.org `Book`/`Product` JSON-LD
+20. **Author Schema** — schema.org `Person` JSON-LD
+21. **Comparable Titles**
+22. **Trending Reader Angles**
+23. **Search Visibility Score**
+
+---
+
+## Standards & conventions
+
+- **Character limits are hard limits.** Meta titles and descriptions are always counted and kept within the SEO/AEO/GEO caps above.
+- **Word counts hit their targets.** Bios and summaries are written to the specified length.
+- **Codes are verified, not guessed.** BISAC codes are checked against the current [BISG](https://www.bisg.org/) list; Thema subjects/qualifiers against the latest [EDItEUR Thema](https://ns.editeur.org/thema/en) release at time of writing.
+- **Placeholders are flagged.** Anything the author/publisher must supply later (ISBN, price, page count, cover URL, buy links, review counts) is written in `[brackets]` so it's easy to find and fill before going live.
+- **Faith/values, audience, and comps are stated as facts** so answer/generative engines can cite them reliably and consistently across every channel.
+
+---
+
+## Adding a new book
+
+1. Share the book's information in the chat (title, author, bios, synopsis, audience, sample chapters, goals — as much as you have).
+2. A new folder `<book-title-slug>/` is created with a fresh `Publishing-Kit.md` built from [`TEMPLATE.md`](./TEMPLATE.md).
+3. The kit is committed on its own branch and opened as a pull request for review.
+4. The "Current titles" table above is updated.

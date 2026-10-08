@@ -55,6 +55,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Though Devils all the Castle Should Fill | Philip H. Young | [`though-devils-all-the-castle/`](./though-devils-all-the-castle/) | Complete |
 | Dear Sisters | Elizabeth Suzanne Bohman and Leanna Grace Bohman | [`dear-sisters/`](./dear-sisters/) | Complete |
 | Mothering God's Purposes | Nickson Mwaino Mwanake | [`mothering-gods-purposes/`](./mothering-gods-purposes/) | Complete |
+| Week 1 of Year 1 Anno Mundi | Gamaliel Cohen | [`week-1-of-year-1-anno-mundi/`](./week-1-of-year-1-anno-mundi/) | Complete |
 
 ---
 

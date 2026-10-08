@@ -68,6 +68,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | City Woman, Country Woman | Kathy Jean Wolfe | [`city-woman-country-woman/`](./city-woman-country-woman/) | Complete |
 | Freedom Forever | Roger A. Rekate | [`freedom-forever/`](./freedom-forever/) | Complete |
 | 4¾ Years At Hogwarts | Shiloh Eden Drake | [`four-years-at-hogwarts/`](./four-years-at-hogwarts/) | Complete |
+| The Gap | Courtney Willie | [`the-gap/`](./the-gap/) | Complete |
 
 ---
 

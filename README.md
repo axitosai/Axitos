@@ -62,6 +62,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Participant Workbook: The Journey to Redemption | Richard P. Wilson II | [`restored-participant-workbook/`](./restored-participant-workbook/) | Complete |
 | The Adventures of Tiny Bird and Friends | Susan Shaver | [`adventures-of-tiny-bird/`](./adventures-of-tiny-bird/) | Complete |
 | Rewiring the Mind for the Melancholy Soul | Nichole Fogleman | [`rewiring-the-mind/`](./rewiring-the-mind/) | Complete |
+| The Loud, Messy, Beautiful Life | Rachel Ann Scott | [`loud-messy-beautiful-life/`](./loud-messy-beautiful-life/) | Complete |
 
 ---
 

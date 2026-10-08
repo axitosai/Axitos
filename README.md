@@ -54,6 +54,7 @@ This repo standardizes that work: for every title, we produce the **same complet
 | Becoming the Man God Is Building | Wedzer Chery | [`becoming-the-man-god-is-building/`](./becoming-the-man-god-is-building/) | Complete |
 | Though Devils all the Castle Should Fill | Philip H. Young | [`though-devils-all-the-castle/`](./though-devils-all-the-castle/) | Complete |
 | Dear Sisters | Elizabeth Suzanne Bohman and Leanna Grace Bohman | [`dear-sisters/`](./dear-sisters/) | Complete |
+| Mothering God's Purposes | Nickson Mwaino Mwanake | [`mothering-gods-purposes/`](./mothering-gods-purposes/) | Complete |
 
 ---
 
